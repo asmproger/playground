@@ -1,0 +1,51 @@
+<html>
+<head>
+    <title>Get cats from wayfair uk</title>
+    <script
+            src="http://code.jquery.com/jquery-1.12.4.js"
+            integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU="
+            crossorigin="anonymous"></script>
+
+    <script>
+        var currentPage = 0;
+        function request() {
+            $.ajax({
+                url: 'get_cats.php',
+                dataType: 'json',
+                data: {
+                    page: currentPage
+                },
+                success: function(response) {
+                    console.log(response);
+                    if(response.status) {
+                        if(response.finish) {
+                            if(wrapper) {
+                                wrapper.append('<li>Work is done</li>');
+                            }
+                            return;
+                        }
+                        currentPage = response.page;
+                        if(wrapper) {
+                            wrapper.append('<li>Category ' + response.category + ', subCats - ' + response.sub_cats + ', file - ' + response.filename + '</li>');
+                        }
+                        request();
+                    }
+                }
+            });
+        }
+        var wrapper = null;
+        $(document).on('click', '#get_cats', function(e) {
+            wrapper = $('#scrapped_cats_list');
+            request();
+            return false;
+        });
+    </script>
+</head>
+<body>
+
+<button id="get_cats">Get cats!</button>
+<ul id="scrapped_cats_list">
+
+</ul>
+</body>
+</html>

@@ -7,5 +7,6 @@ function custom_print_r($var, $return = false) {
     if($return) {
         return $str;
     }
+
     echo $str;
 }
