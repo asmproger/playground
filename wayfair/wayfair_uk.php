@@ -1,5 +1,32 @@
 <?php
 
+function parseBrandNumFromUrl($url)
+{
+    $url = 'https://www.wayfair.co.uk/brand/bnd/demeyere-b10813.html';
+    preg_match('/-(.*).htm/', $url, $result);
+
+    return (count($result) > 1) ? $result[1] : '';
+}
+
+function parseProductNumFromUrl($url)
+{
+    $url = 'https://www.wayfair.co.uk/furniture/pdp/fjorde-co-regean-double-upholstered-bed-frame-hlcp1033.html';
+    preg_match('/-(\w+\d+).htm/', $url, $result);
+    var_dump($result[1]);
+
+    $url = explode('-', $url);
+    if (count($url)) {
+        $num = $url[count($url) - 1];
+        $num = explode('.', $num);
+        if (count($num)) {
+            var_dump( $num[0] );
+        }
+    }
+    die;
+    return (count($result) > 1) ? $result[1] : '';
+}
+parseProductNumFromUrl('');
+
 function getHtml($url)
 {
     $headers = [
@@ -120,7 +147,7 @@ function getMaxPage()
     $dom = new DOMXPath($dom);
 
     $totalPagesWrapper =
-        $dom->query('//div[@class="BrowseCore-footer"]//nav[@class="Pagination"]//*[contains(@class, "Pagination-item")][last() - 1]');
+        $dom->query('//div[@class="BrowseCore-footer"]//nav[contains(@class,"Pagination")]//*[contains(@class, "Pagination-item")][last() - 1]');
 
     var_dump($totalPagesWrapper->item(0));
     die;
@@ -136,7 +163,7 @@ function getProductsUrlsFromContent($html)
     foreach ($products as $element) {
 
         $href = $element->getAttribute('href');
-        if ( ($pos = strpos($href, '?')) !== false ) {
+        if (($pos = strpos($href, '?')) !== false) {
             $href = substr($href, 0, $pos);
         }
 
@@ -146,13 +173,14 @@ function getProductsUrlsFromContent($html)
     return $urls;
 }
 
-function getProductNum() {
+function getProductNum()
+{
     $url = 'https://www.wayfair.co.uk/rugs/pdp/three-posts-eastlawn-trendy-light-grey-area-rug-tpos1866.html';
     $url = explode('-', $url);
-    if(count($url)) {
+    if (count($url)) {
         $num = $url[count($url) - 1];
         $num = explode('.', $num);
-        if(count($num)) {
+        if (count($num)) {
 
             return $num[0];
         }
@@ -207,7 +235,6 @@ function parseSingleValue($dom, $selector)
 {
     $el = $dom->query($selector);
     if ($el->length) {
-
         return $el->item(0)->nodeValue;
     }
 
@@ -216,15 +243,16 @@ function parseSingleValue($dom, $selector)
 
 function main()
 {
-    getProductNum();
+/*    getProductNum();
 
     $html = file_get_contents('../test_html/wayfair_uk_max_page');
 
     $urls = getProductsUrlsFromContent($html);
     var_dump($urls);
-    die('_ OK _');
+    die('_ OK _');*/
 
     $html = file_get_contents('../test_html/wayfair_uk_single_product');
+
     $dom = new DOMDocument();
     $dom->loadHTML($html);
 
