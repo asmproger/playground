@@ -13,6 +13,18 @@ class DES
     {
 
     }
+
+    protected function readFile($file)
+    {
+        $content = file_get_contents($file);
+
+        return $content;
+    }
+
+    protected function saveFile($file, $content)
+    {
+        file_put_contents($file, $content);
+    }
 }
 
 $des = new DES();
