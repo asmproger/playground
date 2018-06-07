@@ -73,6 +73,14 @@ function initWorld(&$world, $size)
     $world[5][7] = 1;
     $world[5][8] = 1;*/
 
+    // test 7
+    $world[5][5] = 1;
+    $world[5][6] = 1;
+    $world[5][7] = 1;
+    $world[4][7] = 1;
+    $world[3][6] = 1;
+
+
     // random
     /*for ($i = 0; $i < $size * 4; $i++) {
         $x = mt_rand(0, $size - 1);
