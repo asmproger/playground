@@ -6,6 +6,8 @@
  * Time: 3:01 PM
  */
 
+include '../functions.php';
+
 $n = 20;
 
 function initWorld(&$world, $size)
@@ -42,15 +44,6 @@ function iterateWorld(&$world, $size)
 
 function getStatus(&$world, $i, $j, $size)
 {
-    /*if ($i > 0 && $j > 0) { // cell not on border
-        $neighbors =
-            $world[$i - 1][$j - 1] + $world[$i][$j - 1] + $world[$i + 1][$j - 1] +
-            $world[$i - 1][$j] + $world[$i + 1][$j] +
-            $world[$i - 1][$j + 1] + $world[$i][$j + 1] + $world[$i + 1][$j + 1];
-    } else {
-        $neighbors = 0;
-    }*/
-
     $neighbors = getNeighbords($world, $i, $j, $size);
 
     if ($world[$i][$j]) { // alive cell
@@ -70,11 +63,24 @@ function getNeighbords(&$world, $i, $j, $size)
             if ($n < 0 || $j < 0 || $i >= $size || $j >= $size) {
                 continue;
             }
-            $state += (int) $world[$n][$m];
+            $state += (int)$world[$n][$m];
         }
     }
 
     return $state;
+}
+
+function checkResult(&$world, $size)
+{
+
+    $result = 0;
+    for ($i = 0; $i < $size; $i++) {
+        for ($j = 0; $j < $size; $j++) {
+            $result += (int)$world[$i][$j];
+        }
+    }
+
+    return $result;
 }
 
 if (isset($_SERVER['HTTP_X_REQUESTED_WITH']) && $_SERVER['HTTP_X_REQUESTED_WITH'] === 'XMLHttpRequest') {
@@ -87,9 +93,11 @@ if (isset($_SERVER['HTTP_X_REQUESTED_WITH']) && $_SERVER['HTTP_X_REQUESTED_WITH'
         $result = iterateWorld($state, $n);
     }
 
+    $checkResult = checkResult($result, $n);
+
     $response = array(
         'state' => $result,
-        'status' => true
+        'alives' => $checkResult
     );
 
     echo json_encode($response);
@@ -148,6 +156,7 @@ initWorld($world, $n);
         </div>
         <div class="field">
             <button type="button" class="next-step">Step</button>
+            <button type="button" class="auto-mode">Start</button>
             <ul class="steps-list">
                 <li>Init state</li>
             </ul>
@@ -207,21 +216,33 @@ initWorld($world, $n);
             },
             success: function (response) {
                 setWorldState(response.state);
-                $('.steps-list').append($('<li>Step ' + totalCntr + '</li>'));
-                totalCntr++;
-                /*if (totalCntr >= 300) {
-                    return;
+                var str = '';
+                if (response.alives > 0) {
+                    str = 'Step ' + totalCntr + ', alives - ' + response.alives;
+                } else {
+                    str = 'APOCALYPSE';
                 }
-                setTimeout(function () {
-                    step();
-                }, 1000);*/
+                $('.steps-list').append($('<li>' + str + '</li>'));
+
+                totalCntr++;
+
+                if (auto && response.alives > 0) {
+                    setTimeout(function () {
+                        step();
+                    }, 1000);
+                }
             }
         });
     }
 
-    var totalCntr = 1;
+    var totalCntr = 1, auto = false;
     $(document).ready(function () {
         $('.next-step').click(function () {
+            step();
+        });
+        $('.auto-mode').click(function () {
+            auto = !auto;
+            $(this).text(auto ? 'Stop' : 'Start');
             step();
         });
         //step();
