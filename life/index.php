@@ -8,7 +8,7 @@
 
 include '../functions.php';
 
-$n = 20;
+$n = 30;
 
 function initWorld(&$world, $size)
 {
@@ -73,12 +73,33 @@ function initWorld(&$world, $size)
     $world[5][7] = 1;
     $world[5][8] = 1;*/
 
-    // test 7
-    $world[5][5] = 1;
+    // GLIDER
+    /*$world[5][5] = 1;
     $world[5][6] = 1;
     $world[5][7] = 1;
     $world[4][7] = 1;
-    $world[3][6] = 1;
+    $world[3][6] = 1;*/
+
+    // 8
+    $world[8][8] = 1;
+    $world[8][9] = 1;
+    $world[8][10] = 1;
+    $world[9][8] = 1;
+    $world[9][9] = 1;
+    $world[9][10] = 1;
+    $world[10][8] = 1;
+    $world[10][9] = 1;
+    $world[10][10] = 1;
+
+    $world[11][11] = 1;
+    $world[11][12] = 1;
+    $world[11][13] = 1;
+    $world[12][11] = 1;
+    $world[12][12] = 1;
+    $world[12][13] = 1;
+    $world[13][11] = 1;
+    $world[13][12] = 1;
+    $world[13][13] = 1;
 
 
     // random
@@ -192,8 +213,19 @@ initWorld($world, $n);
         }
 
         .cell {
-            width: 10px;
-            height: 10px;
+            width: 15px;
+            height: 15px;
+        }
+
+        tr:first-child .cell {
+            border-top: none;
+        }
+        .cell:last-child {
+            border-right: none;
+        }
+        .cell {
+            border-right: 1px solid lightgray;
+            border-top: 1px solid lightgray;
         }
 
         .cell.filled {
@@ -304,7 +336,7 @@ initWorld($world, $n);
                 if (auto && response.alives > 0) {
                     setTimeout(function () {
                         step();
-                    }, 1000);
+                    }, 500);
                 }
             }
         });
