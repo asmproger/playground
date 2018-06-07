@@ -13,26 +13,79 @@ $n = 20;
 function initWorld(&$world, $size)
 {
     if (!is_array($world) || empty($world)) {
-        $world = array($size);
+        $world = array();
     }
 
     for ($i = 0; $i < $size; $i++) {
+        $world[$i] = array();
         for ($j = 0; $j < $size; $j++) {
             $world[$i][$j] = 0;
         }
     }
 
-    for ($i = 0; $i < $size * 20; $i++) {
+    // test 0
+    /*$world[5][5] = 1;
+    $world[5][6] = 1;
+    $world[5][7] = 1;
+    $world[5][8] = 1;
+    $world[5][9] = 1;
+
+    $world[7][5] = 1;
+    $world[8][6] = 1;
+    $world[9][7] = 1;
+    $world[10][8] = 1;
+    $world[11][9] = 1;
+
+    $world[7][5] = 1;
+    $world[8][5] = 1;
+    $world[9][5] = 1;
+    $world[10][5] = 1;
+    $world[11][5] = 1;*/
+
+    // test 1
+    /*$world[5][5] = 1;
+    $world[6][5] = 1;
+    $world[7][6] = 1;*/
+
+    // test 2
+    /*$world[5][8] = 1;
+    $world[4][9] = 1;
+    $world[5][10] = 1;*/
+
+    // test 3
+    /*$world[5][0] = 1;
+    $world[4][1] = 1;
+    $world[3][2] = 1;*/
+
+    // test 4
+    /*$world[1][1] = 1;
+    $world[2][1] = 1;
+    $world[1][2] = 1;*/
+
+    // test 5
+    /*$world[5][6] = 1;
+    $world[5][7] = 1;
+    $world[5][8] = 1;*/
+
+    // test 6
+    /*$world[5][5] = 1;
+    $world[5][6] = 1;
+    $world[5][7] = 1;
+    $world[5][8] = 1;*/
+
+    // random
+    /*for ($i = 0; $i < $size * 4; $i++) {
         $x = mt_rand(0, $size - 1);
         $y = mt_rand(0, $size - 1);
-        $world[$x][$y] = mt_rand(0, 1);
-    }
+        $world[$x][$y] = 1;
+    }*/
 }
 
 function iterateWorld(&$world, $size)
 {
-    $result = array($size, $size);
+    $result = [];
     for ($i = 0; $i < $size; $i++) {
+        $result[$i] = [];
         for ($j = 0; $j < $size; $j++) {
             $item = getStatus($world, $i, $j, $size);
             $result[$i][$j] = $item;
@@ -49,7 +102,7 @@ function getStatus(&$world, $i, $j, $size)
     if ($world[$i][$j]) { // alive cell
         $status = ($neighbors == 3 || $neighbors == 2);
     } else { // empty cell
-        $status = ($neighbors >= 3);
+        $status = ($neighbors === 3);
     }
 
     return $status;
@@ -58,11 +111,17 @@ function getStatus(&$world, $i, $j, $size)
 function getNeighbords(&$world, $i, $j, $size)
 {
     $state = 0;
-    for ($n = $i - 1; $n < $i + 1; $n++) {
-        for ($m = $j - 1; $m < $j + 1; $m++) {
-            if ($n < 0 || $j < 0 || $i >= $size || $j >= $size) {
+
+    for ($n = $i - 1; $n <= $i + 1; $n++) {
+        for ($m = $j - 1; $m <= $j + 1; $m++) {
+            if (
+                    $n < 0 || $j < 0 ||
+                    $i >= $size || $j >= $size ||
+                    ($n == $i && $j == $m)
+            ) {
                 continue;
             }
+
             $state += (int)$world[$n][$m];
         }
     }
@@ -86,8 +145,10 @@ function checkResult(&$world, $size)
 if (isset($_SERVER['HTTP_X_REQUESTED_WITH']) && $_SERVER['HTTP_X_REQUESTED_WITH'] === 'XMLHttpRequest') {
 
     $state = isset($_REQUEST['state']) ? $_REQUEST['state'] : array();
+    $apocalypse = isset($_REQUEST['apocalypse']) ? boolval($_REQUEST['apocalypse']) : false;
     $result = array();
-    if (empty($state)) {
+
+    if ( empty($state) || $apocalypse) {
         initWorld($result, $n);
     } else {
         $result = iterateWorld($state, $n);
@@ -104,9 +165,10 @@ if (isset($_SERVER['HTTP_X_REQUESTED_WITH']) && $_SERVER['HTTP_X_REQUESTED_WITH'
     die;
 }
 
-$world = [$n, $n];
+$world = [];
 
 initWorld($world, $n);
+
 ?>
 
 <html>
@@ -142,8 +204,7 @@ initWorld($world, $n);
 
     <div>
         <div class="field">
-            <table class="world">
-
+            <table class="world" cellpadding="0" cellspacing="0">
                 <?php for ($i = 0; $i < $n; $i++): ?>
                     <tr>
                         <?php for ($j = 0; $j < $n; $j++): ?>
@@ -151,7 +212,6 @@ initWorld($world, $n);
                         <?php endfor; ?>
                     </tr>
                 <?php endfor; ?>
-
             </table>
         </div>
         <div class="field">
@@ -212,14 +272,21 @@ initWorld($world, $n);
             type: 'post',
             dataType: 'json',
             data: {
-                state: state
+                state: state,
+                apocalypse: apocalypse * 1
             },
             success: function (response) {
                 setWorldState(response.state);
+                if (apocalypse) {
+                    apocalypse = false;
+                    $('.steps-list').html($('<li>Init state</li>'));
+                }
                 var str = '';
                 if (response.alives > 0) {
                     str = 'Step ' + totalCntr + ', alives - ' + response.alives;
                 } else {
+                    apocalypse = true;
+                    auto = false;
                     str = 'APOCALYPSE';
                 }
                 $('.steps-list').append($('<li>' + str + '</li>'));
@@ -235,7 +302,7 @@ initWorld($world, $n);
         });
     }
 
-    var totalCntr = 1, auto = false;
+    var totalCntr = 1, auto = false, apocalypse = false;
     $(document).ready(function () {
         $('.next-step').click(function () {
             step();
