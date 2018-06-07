@@ -42,17 +42,16 @@ function iterateWorld(&$world, $size)
 
 function getStatus(&$world, $i, $j, $size)
 {
-    $neighbors = mt_rand(0, 8);
-
-    if ($i > 0 && $j > 0) { // cell not on border
+    /*if ($i > 0 && $j > 0) { // cell not on border
         $neighbors =
             $world[$i - 1][$j - 1] + $world[$i][$j - 1] + $world[$i + 1][$j - 1] +
             $world[$i - 1][$j] + $world[$i + 1][$j] +
             $world[$i - 1][$j + 1] + $world[$i][$j + 1] + $world[$i + 1][$j + 1];
     } else {
         $neighbors = 0;
-    }
+    }*/
 
+    $neighbors = getNeighbords($world, $i, $j, $size);
 
     if ($world[$i][$j]) { // alive cell
         $status = ($neighbors == 3 || $neighbors == 2);
@@ -61,6 +60,21 @@ function getStatus(&$world, $i, $j, $size)
     }
 
     return $status;
+}
+
+function getNeighbords(&$world, $i, $j, $size)
+{
+    $state = 0;
+    for ($n = $i - 1; $n < $i + 1; $n++) {
+        for ($m = $j - 1; $m < $j + 1; $m++) {
+            if ($n < 0 || $j < 0 || $i >= $size || $j >= $size) {
+                continue;
+            }
+            $state += (int) $world[$n][$m];
+        }
+    }
+
+    return $state;
 }
 
 if (isset($_SERVER['HTTP_X_REQUESTED_WITH']) && $_SERVER['HTTP_X_REQUESTED_WITH'] === 'XMLHttpRequest') {
