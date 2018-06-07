@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: sovkutsan
- * Date: 5/21/18
- * Time: 11:30 AM
- */
+die('wtf bro');
 
 class CesarChipher extends php_user_filter
 {

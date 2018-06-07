@@ -25,7 +25,6 @@ function parseProductNumFromUrl($url)
     die;
     return (count($result) > 1) ? $result[1] : '';
 }
-parseProductNumFromUrl('');
 
 function getHtml($url)
 {
@@ -141,7 +140,8 @@ function getCategoryFromUrl($url)
 
 function getMaxPage()
 {
-    $html = file_get_contents('../test_html/wayfair_uk_max_page');
+    //$html = file_get_contents('../test_html/wayfair_uk_max_page');
+    $html = file_get_contents('wayfair_uk_some_page.html');
     $dom = new DOMDocument();
     $dom->loadHTML($html);
     $dom = new DOMXPath($dom);
@@ -251,7 +251,8 @@ function main()
     var_dump($urls);
     die('_ OK _');*/
 
-    $html = file_get_contents('../test_html/wayfair_uk_single_product');
+    //$html = file_get_contents('../test_html/wayfair_uk_single_product');
+    $html = file_get_contents('wayfair_uk_some_page.html');
 
     $dom = new DOMDocument();
     $dom->loadHTML($html);
@@ -274,5 +275,6 @@ function main()
     die;
 
 }
-
+getMaxPage();
+die;
 main();

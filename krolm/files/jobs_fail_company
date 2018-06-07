@@ -1,0 +1,3434 @@
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+Server: Play
+pageKey: d_jobs_jserp_guest
+X-FS-Skeleton-Type: unordered
+X-Li-Processing-Colo: prod-lva1
+Date: Tue, 22 May 2018 11:01:41 GMT
+X-FS-UUID: 8d209c837cf230156097e3df022b0000
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=2592000
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: sameorigin
+Content-Security-Policy: default-src *; connect-src 'self' static.licdn.com media.licdn.com static-exp1.licdn.com static-exp2.licdn.com media-exp1.licdn.com media-exp2.licdn.com https://media-src.linkedin.com/media/ www.linkedin.com s.c.lnkd.licdn.com m.c.lnkd.licdn.com s.c.exp1.licdn.com s.c.exp2.licdn.com m.c.exp1.licdn.com m.c.exp2.licdn.com wss://*.linkedin.com dms.licdn.com; img-src data: blob: *; font-src data: *; style-src 'unsafe-inline' 'self' static-src.linkedin.com *.licdn.com; script-src 'report-sample' 'unsafe-inline' 'unsafe-eval' 'self' platform.linkedin.com spdy.linkedin.com static-src.linkedin.com *.ads.linkedin.com *.licdn.com static.chartbeat.com www.google-analytics.com ssl.google-analytics.com bcvipva02.rightnowtech.com www.bizographics.com sjs.bizographics.com js.bizographics.com d.la4-c1-was.salesforceliveagent.com slideshare.www.linkedin.com; object-src 'none'; media-src blob: *; child-src blob: lnkd-communities: voyager: *; frame-ancestors 'self'; report-uri https://www.linkedin.com/lite/contentsecurity?f=l
+X-Li-Fabric: prod-lva1
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache, no-store
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Li-Pop: prod-efr5
+X-LI-Proto: http/1.1
+X-LI-UUID: jSCcg3zyMBVgl+PfAisAAA==
+
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lt IE 7]> <html lang="en" class="ie ie6 lte9 lte8 lte7 os-mac"> <![endif]-->
+<!--[if IE 7]> <html lang="en" class="ie ie7 lte9 lte8 lte7 os-mac"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="ie ie8 lte9 lte8 os-mac"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie ie9 lte9 os-mac"> <![endif]-->
+<!--[if gt IE 9]> <html lang="en" class="os-mac"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en" class="os-mac"> <!--<![endif]-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<head>
+<meta charset="UTF-8"/>
+
+
+
+
+ <title>Devops Jobs in San Carlos, CA
+ | LinkedIn
+ </title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="referrer" content="origin"/>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+ <meta name="pageImpressionID" content="cfe556ef-9222-4e37-9320-c72cfbbf06f5">
+
+ <meta name="appName" content="chrome">
+
+
+
+
+
+
+ <meta name="pageKey" content="d_jobs_jserp_guest">
+
+
+
+ <meta name="treeID" content="jSCcg3zyMBVgl+PfAisAAA==">
+
+
+
+
+
+
+
+ <meta name="globalTrackingUrl" content="//www.linkedin.com/mob/tracking">
+ <meta name="globalTrackingAppName" content="chrome">
+ <meta name="globalTrackingAppId" content="webTracking">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lte IE 8]>
+  <link rel="shortcut icon" href="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/16x16/favicon.ico">
+<![endif]-->
+<!--[if IE 9]>
+  <link rel="shortcut icon" href="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico">
+<![endif]-->
+<link rel="icon" href="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico">
+
+
+<link rel="apple-touch-icon-precomposed" href="https://static.licdn.com/scds/common/u/img/icon/apple-touch-icon.png">
+
+
+<meta name="msapplication-TileImage" content="https://static.licdn.com/scds/common/u/images/logos/linkedin/logo-in-win8-tile-144_v1.png"/>
+<meta name="msapplication-TileColor" content="#0077B5"/>
+<meta name="application-name" content="LinkedIn"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="https://static.licdn.com/scds/concat/common/js?v=0.1.509" name="RemoteNavJSContentBaseURL" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <script src="https://static.licdn.com:443/scds/common/u/lib/fizzy/fz-1.3.8-min.js" type="text/javascript"></script><script type="text/javascript">fs.config({"failureRedirect":"http://www.linkedin.com/","uniEscape":true,"xhrHeaders":{"X-FS-Origin-Request":"/jobs/search/?keywords=devops&location=94071&locationId=POSTAL.us.94071&sortBy=DD&start=0","X-FS-Page-Id":""}});</script><script type="text/javascript" src="https://static.licdn.com/scds/concat/common/js?h=7vr4nuab43rzvy2pgq7yvvxjk-9qa4rfxekcw3lt2c06h7p0kmf"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <link rel="stylesheet" type="text/css" href="https://static.licdn.com/scds/concat/common/css?h=as8kt5bqspxc01tl9cizqa37j">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script></script>
+
+<!--[if IE 8]><script src="https://static.licdn.com/scds/common/u/lib/polyfill/1.0.2/ie8-polyfill.min.js"></script><![endif]-->
+<!--[if IE 9]><script src="https://static.licdn.com/scds/common/u/lib/polyfill/1.0.2/ie9-polyfill.min.js"></script><![endif]-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="lnkd-track-json-lib" content="https://static.licdn.com/scds/concat/common/js?h=2jds9coeh4w78ed9wblscv68v-ebbt2vixcc5qz0otts5io08xv">
+  <meta name="lnkd-track-lib" content="https://static.licdn.com/scds/concat/common/js?h=ebbt2vixcc5qz0otts5io08xv">
+
+
+
+
+
+
+
+<meta name="lnkd-track-error" content="/lite/ua/error?csrfToken=ajax%3A7444758094791624087">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta id="appHost" name="appHost" content="jobs-frontend">
+  <meta id="appVersion" name="appVersion" content="1.0.1516">
+  <meta id="appInstance" name="appInstance" content="i001">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <script type="text/javascript" src="https://static.licdn.com/scds/concat/common/js?h=e2lgukqldpqool72t8g7tysag-3nuvxgwg15rbghxm1gpzfbya2-1nm61x5u7981e88m10hpaekkm-mv3v66b8q0h1hvgvd3yfjv5f-14k913qahq3mh0ac0lh0twk9v"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <script src="https://static.licdn.com/sc/p/com.linkedin.jobs-frontend%3Ajobs-frontend-static-content%2B1.0.1516/f/%2Fjobs-frontend%2Fdust%2Fdev%2Flinkedin-dust.js"></script>
+
+
+<link rel="preconnect" href="//static.licdn.com">
+<link rel="preconnect" href="//media.licdn.com">
+<link rel="preconnect" href="//platform.linkedin.com">
+
+
+  <link rel="canonical" href="https://www.linkedin.com/jobs/devops-jobs-san-carlos-ca"/>
+
+
+  <link rel="alternate" href="android-app://com.linkedin.android.jobs.jobseeker/https/www.linkedin.com/jobs/devops-jobs-san-carlos-ca"/>
+
+
+  <meta property="og:url" content="https://www.linkedin.com/jobs/devops-jobs-san-carlos-ca">
+
+  <meta property="og:appindexUrl" content="www.linkedin.com/jobs/devops-jobs-san-carlos-ca">
+
+  <meta property="og:title" content="Devops Jobs in San Carlos, CA">
+
+  <meta property="og:description" content="Apply to Devops jobs in San Carlos, CA on LinkedIn. Sign-up today, leverage your professional network, and get hired. New Devops jobs added daily.">
+
+<meta property="og:site_name" content="LinkedIn">
+<meta name="apple-itunes-app" content="app-id=886051313, app-argument=lijobseeker://search?smartbanner=1&logged_in=0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="play-streaming" content="play streaming enabled">
+
+  <meta name="description" content="Apply to Devops jobs in San Carlos, CA on LinkedIn. Sign-up today, leverage your professional network, and get hired. New Devops jobs added daily."/>
+
+
+
+
+    <link rel="stylesheet" href="https://static.licdn.com/sc/p/com.linkedin.jobs-frontend%3Ajobs-frontend-static-content%2B1.0.1516/f/%2Fjobs-frontend%2Fconcat%2Fjserp-style-dependencies_en_US.css"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <body class="js guest" dir="ltr" id="pagekey-d_jobs_jserp_guest">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="application-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  <script data-page-js-type="lix">
+                    (function(n, r, a) {
+                      r = window[n] = window[n] || {};
+
+
+                            r['jsecure_injectAlert'] = 'enabled';
+
+
+
+                            r['jsecure_Dialog'] = 'control';
+
+
+                    }('__li__lix_registry__'));
+                  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<main id="layout-main" role="main">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <code id="__pageContext__" style="display: none;"><!--{"baseScdsUrl":"https://static.licdn.com/scds","contextPath":"/jobs2","pageInstance":"urn:li:page:d_jobs_jserp_guest;kduSP+eBQXekiicPd8SS5Q==","isProd":true,"brotliBaseSparkUrlForHashes":"https://static.licdn.com/sc/h/br","linkedInDustJsUrl":"https://static.licdn.com/sc/h/3qk7aqkysw7gz575y2ma1e5ky","baseSparkUrlForHashes":"https://static.licdn.com/sc/h","isCsUser":false,"appName":"jobs-frontend","fizzyJsUrl":"https://static.licdn.com/scds/common/u/lib/fizzy/fz-1.3.3-min.js","mpName":"jobs-frontend","scHashesUrl":"https://static.licdn.com/sc/p/com.linkedin.jobs-frontend%3Ajobs-frontend-static-content%2B1.0.1516/f/%2Fjobs-frontend%2Fsc-hashes%2Fsc-hashes_en_US.js","dustDebug":"control","baseMediaUrl":"https://media.licdn.com/media","isBrotliEnabled":false,"useCdn":true,"locale":"en_US","version":"1.0.1516","useScHashesJs":false,"cdnUrl":"https://static.licdn.com","baseMprUrl":"https://media.licdn.com/mpr/mpr","playUtilsUrl":"https://static.licdn.com/sc/h/v0un52v653evxg2c5l1ap5la","useNativeXmsg":false,"hashesDisabledByQueryParam":false,"baseAssetsUrl":"https://static.licdn.com/sc/p/com.linkedin.jobs-frontend%3Ajobs-frontend-static-content%2B1.0.1516/f","csrfToken":"ajax:7444758094791624087","intlPolyfillUrl":"https://static.licdn.com/sc/h/1fw1ey0jfgqapy4dndtgrr7y1","serveT8WithDust":false,"disableDynamicConcat":false,"baseSparkUrlForFiles":"https://static.licdn.com/sc/p/com.linkedin.jobs-frontend%3Ajobs-frontend-static-content%2B1.0.1516/f","dustUtilsUrl":"https://static.licdn.com/sc/h/19dd5wwuyhbk7uttxpuelttdg","linkedInDustI18nJsUrl":"https://static.licdn.com/sc/h/epy983tzfexddbwygtwyxyavv","baseMediaProxyUrl":"https://media.licdn.com/media-proxy"}--></code>
+
+
+<script src="https://static.licdn.com/sc/h/1fw1ey0jfgqapy4dndtgrr7y1"></script>
+
+<script src="https://static.licdn.com/sc/h/19dd5wwuyhbk7uttxpuelttdg"></script>
+
+<script>(function(root){
+var jsRoutes = {}; (function(_root){
+var _nS = function(c,f,b){var e=c.split(f||"."),g=b||_root,d,a;for(d=0,a=e.length;d<a;d++){g=g[e[d]]=g[e[d]]||{}}return g}
+var _qS = function(items){var qs = ''; for(var i=0;i<items.length;i++) {if(items[i]) qs += (qs ? '&' : '') + items[i]}; return qs ? ('?' + qs) : ''}
+var _s = function(p,s){return p+((s===true||(s&&s.secure))?'s':'')+'://'}
+var _wA = function(r){return {ajax:function(c){c=c||{};c.url=r.url;c.type=r.method;return jQuery.ajax(c)}, method:r.method,type:r.method,url:r.url,absoluteURL: function(s){return _s('http',s)+'www.linkedin.com'+r.url},webSocketURL: function(s){return _s('ws',s)+'www.linkedin.com'+r.url}}}
+_nS('controllers.salary.SalaryController'); _root.controllers.salary.SalaryController.collection =
+        function(path,sidToken) {
+          return _wA({method:"GET", url:"/salary/" + "collection" + (function(k,v) {return v})("path", path) + _qS([(function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''})("sidToken", sidToken)])})
+        }
+
+_nS('controllers.salary.SalaryController'); _root.controllers.salary.SalaryController.insights =
+        function(path,sidToken) {
+          return _wA({method:"GET", url:"/salary/" + "insights" + (function(k,v) {return v})("path", path) + _qS([(function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''})("sidToken", sidToken)])})
+        }
+
+_nS('controllers.jobsearch.JobSearchController'); _root.controllers.jobsearch.JobSearchController.searchRefresh =
+        function(jobSearchQueryParams,paginatedParams,jobsearchAlertParams,location,maybePivotQuery,refreshType,isCleanUrl,relatedLocPos) {
+          return _wA({method:"GET", url:"/jobs/" + "searchRefresh" + _qS([(function(k,v) {return function(k,v) {
+  var ma =  function(k,v) {
+    var ma =  function(k,v) {
+      var ma =  function(k,v) {
+        var ma =  function(k,v) {
+          var ma =  function(k,v) {
+            var ma =  function(k,v) {
+              var ma =  function(k,v) {
+                var ma =  function(k,v) {
+                  var ma =  function(k,v) {
+                    var ma =  function(k,v) {
+                      var ma =  function(k,v) {
+                        if (!v) { return null; }
+                        var suffixKey = 'keywords';
+                        if (!k) { k = suffixKey; }
+                        else if (suffixKey) { k = k + '.' + suffixKey; }
+                        var subValue = suffixKey ? v[suffixKey] : v;
+                        if (typeof subValue == 'undefined') {
+                          return null;
+                        } else {
+                          return function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''}(k, subValue);
+                        }
+                      }(k,v);
+                      var mb =  function(k,v) {
+                        if (!v) { return null; }
+                        var suffixKey = 'company';
+                        if (!k) { k = suffixKey; }
+                        else if (suffixKey) { k = k + '.' + suffixKey; }
+                        var subValue = suffixKey ? v[suffixKey] : v;
+                        if (typeof subValue == 'undefined') {
+                          return null;
+                        } else {
+                          return function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''}(k, subValue);
+                        }
+                      }(k,v);
+                      if (ma && mb) { return ma + '&' + mb; }
+                      else if (ma) { return ma; }
+                      else if (mb) { return mb; }
+                      return '';
+                    }(k,v);
+                    var mb =  function(k,v) {
+                      if (!v) { return null; }
+                      var suffixKey = 'title';
+                      if (!k) { k = suffixKey; }
+                      else if (suffixKey) { k = k + '.' + suffixKey; }
+                      var subValue = suffixKey ? v[suffixKey] : v;
+                      if (typeof subValue == 'undefined') {
+                        return null;
+                      } else {
+                        return function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''}(k, subValue);
+                      }
+                    }(k,v);
+                    if (ma && mb) { return ma + '&' + mb; }
+                    else if (ma) { return ma; }
+                    else if (mb) { return mb; }
+                    return '';
+                  }(k,v);
+                  var mb =  function(k,v) {
+                    if (!v) { return null; }
+                    var suffixKey = 'postalCode';
+                    if (!k) { k = suffixKey; }
+                    else if (suffixKey) { k = k + '.' + suffixKey; }
+                    var subValue = suffixKey ? v[suffixKey] : v;
+                    if (typeof subValue == 'undefined') {
+                      return null;
+                    } else {
+                      return function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''}(k, subValue);
+                    }
+                  }(k,v);
+                  if (ma && mb) { return ma + '&' + mb; }
+                  else if (ma) { return ma; }
+                  else if (mb) { return mb; }
+                  return '';
+                }(k,v);
+                var mb =  function(k,v) {
+                  if (!v) { return null; }
+                  var suffixKey = 'countryCode';
+                  if (!k) { k = suffixKey; }
+                  else if (suffixKey) { k = k + '.' + suffixKey; }
+                  var subValue = suffixKey ? v[suffixKey] : v;
+                  if (typeof subValue == 'undefined') {
+                    return null;
+                  } else {
+                    return function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)}(k, subValue);
+                  }
+                }(k,v);
+                if (ma && mb) { return ma + '&' + mb; }
+                else if (ma) { return ma; }
+                else if (mb) { return mb; }
+                return '';
+              }(k,v);
+              var mb =  function(k,v) {
+                if (!v) { return null; }
+                var suffixKey = 'distance';
+                if (!k) { k = suffixKey; }
+                else if (suffixKey) { k = k + '.' + suffixKey; }
+                var subValue = suffixKey ? v[suffixKey] : v;
+                if (typeof subValue == 'undefined') {
+                  return null;
+                } else {
+                  return function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''}(k, subValue);
+                }
+              }(k,v);
+              if (ma && mb) { return ma + '&' + mb; }
+              else if (ma) { return ma; }
+              else if (mb) { return mb; }
+              return '';
+            }(k,v);
+            var mb =  function(k,v) {
+              if (!v) { return null; }
+              var suffixKey = 'sortBy';
+              if (!k) { k = suffixKey; }
+              else if (suffixKey) { k = k + '.' + suffixKey; }
+              var subValue = suffixKey ? v[suffixKey] : v;
+              if (typeof subValue == 'undefined') {
+                return null;
+              } else {
+                return function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''}(k, subValue);
+              }
+            }(k,v);
+            if (ma && mb) { return ma + '&' + mb; }
+            else if (ma) { return ma; }
+            else if (mb) { return mb; }
+            return '';
+          }(k,v);
+          var mb =  function(k,v) {
+            if (!v) { return null; }
+            var suffixKey = 'locationId';
+            if (!k) { k = suffixKey; }
+            else if (suffixKey) { k = k + '.' + suffixKey; }
+            var subValue = suffixKey ? v[suffixKey] : v;
+            if (typeof subValue == 'undefined') {
+              return null;
+            } else {
+              return function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)}(k, subValue);
+            }
+          }(k,v);
+          if (ma && mb) { return ma + '&' + mb; }
+          else if (ma) { return ma; }
+          else if (mb) { return mb; }
+          return '';
+        }(k,v);
+        var mb =  function(k,v) {
+          if (!v) { return null; }
+          var suffixKey = 'locationType';
+          if (!k) { k = suffixKey; }
+          else if (suffixKey) { k = k + '.' + suffixKey; }
+          var subValue = suffixKey ? v[suffixKey] : v;
+          if (typeof subValue == 'undefined') {
+            return null;
+          } else {
+            return function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)}(k, subValue);
+          }
+        }(k,v);
+        if (ma && mb) { return ma + '&' + mb; }
+        else if (ma) { return ma; }
+        else if (mb) { return mb; }
+        return '';
+      }(k,v);
+      var mb =  function(k,v) {
+        if (!v) { return null; }
+        var suffixKey = '';
+        if (!k) { k = suffixKey; }
+        else if (suffixKey) { k = k + '.' + suffixKey; }
+        var subValue = suffixKey ? v[suffixKey] : v;
+        if (typeof subValue == 'undefined') {
+          return null;
+        } else {
+          return function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)}(k, subValue);
+        }
+      }(k,v);
+      if (ma && mb) { return ma + '&' + mb; }
+      else if (ma) { return ma; }
+      else if (mb) { return mb; }
+      return '';
+    }(k,v);
+    var mb =  function(k,v) {
+      if (!v) { return null; }
+      var suffixKey = 'orig';
+      if (!k) { k = suffixKey; }
+      else if (suffixKey) { k = k + '.' + suffixKey; }
+      var subValue = suffixKey ? v[suffixKey] : v;
+      if (typeof subValue == 'undefined') {
+        return null;
+      } else {
+        return function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''}(k, subValue);
+      }
+    }(k,v);
+    if (ma && mb) { return ma + '&' + mb; }
+    else if (ma) { return ma; }
+    else if (mb) { return mb; }
+    return '';
+  }(k,v);
+  var mb =  function(k,v) {
+    if (!v) { return null; }
+    var suffixKey = '';
+    if (!k) { k = suffixKey; }
+    else if (suffixKey) { k = k + '.' + suffixKey; }
+    var subValue = suffixKey ? v[suffixKey] : v;
+    if (typeof subValue == 'undefined') {
+      return null;
+    } else {
+      return function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)}(k, subValue);
+    }
+  }(k,v);
+  if (ma && mb) { return ma + '&' + mb; }
+  else if (ma) { return ma; }
+  else if (mb) { return mb; }
+  return '';
+}('', v);})("jobSearchQueryParams", jobSearchQueryParams), (function(k,v) {return function(k,v) {
+  var ma =  function(k,v) {
+    var ma =  function(k,v) { if (!v) { return null; } return function(k,v) {
+      if (!v) { return null; }
+      var suffixKey = 'start';
+      if (!k) { k = suffixKey; }
+      else if (suffixKey) { k = k + '.' + suffixKey; }
+      var subValue = suffixKey ? v[suffixKey] : v;
+      if (typeof subValue == 'undefined') {
+        return null;
+      } else {
+        return function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''}(k, subValue);
+      }
+    }(k, v); }(k,v);
+    var mb =  function(k,v) {
+      if (!v) { return null; }
+      var suffixKey = 'count';
+      if (!k) { k = suffixKey; }
+      else if (suffixKey) { k = k + '.' + suffixKey; }
+      var subValue = suffixKey ? v[suffixKey] : v;
+      if (typeof subValue == 'undefined') {
+        return null;
+      } else {
+        return function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''}(k, subValue);
+      }
+    }(k,v);
+    if (ma && mb) { return ma + '&' + mb; }
+    else if (ma) { return ma; }
+    else if (mb) { return mb; }
+    return '';
+  }(k,v);
+  var mb =  function(k,v) {
+    if (!v) { return null; }
+    var suffixKey = 'pagingToken';
+    if (!k) { k = suffixKey; }
+    else if (suffixKey) { k = k + '.' + suffixKey; }
+    var subValue = suffixKey ? v[suffixKey] : v;
+    if (typeof subValue == 'undefined') {
+      return null;
+    } else {
+      return function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''}(k, subValue);
+    }
+  }(k,v);
+  if (ma && mb) { return ma + '&' + mb; }
+  else if (ma) { return ma; }
+  else if (mb) { return mb; }
+  return '';
+}('', v);})("paginatedParams", paginatedParams), (function(k,v) {return function(k,v) {
+  var ma =  function(k,v) {
+    var ma =  function(k,v) {
+      if (!v) { return null; }
+      var suffixKey = 'savedSearchAuthToken';
+      if (!k) { k = suffixKey; }
+      else if (suffixKey) { k = k + '.' + suffixKey; }
+      var subValue = suffixKey ? v[suffixKey] : v;
+      if (typeof subValue == 'undefined') {
+        return null;
+      } else {
+        return function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''}(k, subValue);
+      }
+    }(k,v);
+    var mb =  function(k,v) {
+      if (!v) { return null; }
+      var suffixKey = 'savedSearchId';
+      if (!k) { k = suffixKey; }
+      else if (suffixKey) { k = k + '.' + suffixKey; }
+      var subValue = suffixKey ? v[suffixKey] : v;
+      if (typeof subValue == 'undefined') {
+        return null;
+      } else {
+        return function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''}(k, subValue);
+      }
+    }(k,v);
+    if (ma && mb) { return ma + '&' + mb; }
+    else if (ma) { return ma; }
+    else if (mb) { return mb; }
+    return '';
+  }(k,v);
+  var mb =  function(k,v) {
+    if (!v) { return null; }
+    var suffixKey = 'alertAction';
+    if (!k) { k = suffixKey; }
+    else if (suffixKey) { k = k + '.' + suffixKey; }
+    var subValue = suffixKey ? v[suffixKey] : v;
+    if (typeof subValue == 'undefined') {
+      return null;
+    } else {
+      return function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''}(k, subValue);
+    }
+  }(k,v);
+  if (ma && mb) { return ma + '&' + mb; }
+  else if (ma) { return ma; }
+  else if (mb) { return mb; }
+  return '';
+}('', v);})("jobsearchAlertParams", jobsearchAlertParams), (location == null ? null : (function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})("location", location)), (maybePivotQuery == null ? null : (function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''})("maybePivotQuery", maybePivotQuery)), (refreshType == null ? null : (function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})("refreshType", refreshType)), (isCleanUrl == null ? null : (function(k,v){return k+'='+(!!v)})("isCleanUrl", isCleanUrl)), (relatedLocPos == null ? null : (function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})("relatedLocPos", relatedLocPos))])})
+        }
+
+_nS('controllers.JobAlertController'); _root.controllers.JobAlertController.createAlert =
+        function() {
+          return _wA({method:"POST", url:"/" + "jobs/jobAlert"})
+        }
+
+_nS('controllers.JobAlertController'); _root.controllers.JobAlertController.batchUpdateAlerts =
+        function(authToken) {
+          return _wA({method:"PUT", url:"/" + "jobs/jobAlert" + _qS([(function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''})("authToken", authToken)])})
+        }
+
+_nS('controllers.JobAlertController'); _root.controllers.JobAlertController.deleteAlert =
+        function(id,authToken) {
+          return _wA({method:"DELETE", url:"/" + "jobs/jobAlert/" + (function(k,v) {return v})("id", id) + _qS([(function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''})("authToken", authToken)])})
+        }
+
+_nS('controllers.JobAlertController'); _root.controllers.JobAlertController.fetchAlerts =
+        function(authToken) {
+          return _wA({method:"GET", url:"/" + "jobs/jobAlert" + _qS([(function(k,v){return v!=null?(function(k,v) {return encodeURIComponent(k)+'='+encodeURIComponent(v)})(k,v):''})("authToken", authToken)])})
+        }
+
+})(jsRoutes)
+    ;
+root.play = root.play || {};
+root.play.jsRoutes = root.play.jsRoutes || {};
+var extend = function (original, context) {
+  for (key in context)
+    if (context.hasOwnProperty(key))
+      if (Object.prototype.toString.call(context[key]) === '[object Object]')
+        original[key] = extend(original[key] || {}, context[key]);
+      else
+        original[key] = context[key];
+  return original;
+};
+root.play.jsRoutes = extend(root.play.jsRoutes, jsRoutes);
+})(this);</script>
+
+<div id="navigation-container" class="dev-nav nav-container"></div>
+<div id="content-outlet"></div>
+<!-- content that will be stream to browser after early flush the content before it -->
+
+
+
+
+
+
+
+
+
+
+
+  </main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <script type="text/javascript" src="https://static.licdn.com/scds/concat/common/js?h=a06jpss2hf43xwxobn0gl598m-44hhbxag3hinac547ym9vby09-5jratctnqzzuc1057yivxswgf-9zz2lhu3eq1epk7sq1t8cdb5s-eound1d1xhqm86h7g2p57b94l-edgsl2z4e4gk56cy2m5kbpp1q-acgipb6zomeaovod456pb7yjs-bctwwqj7p01tcj2smshz2bboe-88ec8b078z4fzj5q3z4qowg63-bftaa82sjwcbrohoe28skni7b-58m2n4boqb1vxfd6hgd34auwd-82i5b2jv41vqmfkb5brdajvv-e7xlsv13j9f9fgq7i82f6mifw-di2107u61yb11ttimo0s2qyh2-oj1awm2qygfeios7s2x0fa61-5ms6g95rjk28v6utub7tqsm6p-8ohb0iio22nbqe1w8et54sawe-ep4eby7oah63xbtrubx5la06x-57lg2yf3jfayguexsnkdcuf6b-4xrype8gcpif12q2vozq6txkf-axtkgwnrklmxcw4d5sn20nxhh-4q7lccf6nuxzeei6wo8r49s2f-9u02huxx231jnju6devou27km-6zjqq8r01lawj679i43jm042q-dw2b2bmrlx7m31av10jvin21k-4z7y569rucgjkitpdzpd0lr56-d10ox4iv2fu2pcnng02u8mlmn-8ycvggo1571xgrdka3utvcyml-cfabcg4u1cj0em4yissh5mfxu"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  <script data-page-js-type="config">
+                    (function(n, r, a) {
+                      r = window[n] = window[n] || {};
+
+
+
+                                a = r['WebTracking'] = r['WebTracking'] || {};
+                                a['URLs'] = {'saveWebActionTrackURL':'\/lite\/secure-web-action-track?csrfToken=ajax%3A7444758094791624087'};
+
+
+
+                    }('__li__config_registry__'));
+                  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  <script data-page-js-type="lix">
+                    (function(n, r, a) {
+                      r = window[n] = window[n] || {};
+
+
+                            r['global_bsp_notice_type'] = 'warning';
+
+
+
+                            r['global_bsp_notice_autoHide'] = 'false';
+
+
+
+                            r['global_bsp_view_threshold'] = 'c5';
+
+
+                    }('__li__lix_registry__'));
+                  </script>
+
+
+
+
+
+
+
+
+
+
+
+                  <script data-page-js-type="i18n">
+                    (function(n, r, a) {
+                      r = window[n] = window[n] || {};
+
+
+                            r['global_browser_unsupported_notice'] = 'Looks like you\'re using a browser that\'s not supported. <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/help\/linkedin\/answer\/4135?lang=en\">Learn more about browsers you can use.<\/a>';
+
+
+                    }('__li__i18n_registry__'));
+                  </script>
+
+
+
+
+
+
+
+
+
+
+
+                  <script data-page-js-type="config">
+                    (function(n, r, a) {
+                      r = window[n] = window[n] || {};
+
+
+
+                                r['LoggedOutBadging'] = {url: '\/chrome\/logged-out-badging?csrfToken=ajax%3A7444758094791624087'};
+
+
+
+
+
+                                a = r['global:browserSupportPolicy'] = r['global:browserSupportPolicy'] || {};
+                                a['supportedBrowserMinVersions'] = {      ie:             'control',      firefox:        'v38',      opera:          'control',      safari:         'v6.1',      chrome:         'v42',      mobileSafari:   'v7',      android:        'v2.3',      androidChrome:  'v0'    };
+
+
+
+                    }('__li__config_registry__'));
+                  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <script type="text/javascript" src="https://static.licdn.com/scds/concat/common/js?h=3kp2aedn5pmamdr4dk4n8atur-3ti5bgrnb6idjtk0w4chaigxe-5hqr1i1uoezoj0z1s5gcxojf2-71o37tcjwl0ishto9izvyml3i-3bbdjshpw5ov0rwa8xe08tp97-cayct4cirf7n0f9z1xsg84g0q-dktkawxk7k8pixuh5g8z5ku32-213zbp2wzp99lviwl8g2cvq6i-1lknwtftishpdmobzm413yc7u-bcxa0v9ke411pjpmz4s239f9b-2s77lcl0ztx2c5fzyqvglptj1-4oxrpzoyo6knraptad8orx3t9-8h514j3fiwnzuwkt66sbxsu8f-di2z9sra5co9la7ogqyesywin"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<code id="decoratedJobPostingsModule"><!--{"elements":[{"isInApply":false,"decoratedJobPosting":{"jobPosting":{"listDate":1526975955000,"countryCode":"us","companyName":"Symantec","listingType":"BASIC","id":684134739,"title":"IT Intern","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"symantec.wd1.myworkdayjobs.com"},"formattedDescription":"The intern will be part of this team and involved in DevOps projects including development of the Integrated DevOps platform based on Python and managing the operations of the ...","formattedTitle":"IT Intern","cityState":"Mountain View, California","companyName":"Symantec","formattedLocation":"Mountain View, CA, US","decoratedCompany":{"company":{"companyId":1231,"names":[{"name":"Symantec","active":true,"locale":"en_US","type":"CANONICAL"},{"name":"&#36187;&#38376;&#38081;&#20811;","active":true,"locale":"zh_CN","type":"ALTERNATE"},{"name":"&#36187;&#38376;&#38081;&#20811;&#20844;&#21496;","active":true,"locale":"en_US","type":"ALTERNATE"},{"name":"&#36093;&#38272;&#37941;&#20811;&#20844;&#21496;","active":true,"locale":"zh_TW","type":"ALTERNATE"},{"name":"&#36093;&#38272;&#37941;&#20811;","active":true,"locale":"zh_TW","type":"ALTERNATE"},{"name":"Symantec","active":true,"locale":"ko_KR","type":"ALTERNATE"},{"name":"&#49884;&#47564;&#53581;","active":true,"locale":"ko_KR","type":"ALTERNATE"},{"name":"&#12471;&#12510;&#12531;&#12486;&#12483;&#12463;","active":true,"locale":"en_US","type":"ALTERNATE"}],"universalName":"symantec"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAgQIAAkAAQAAAAAAAA_MAAAAJDk5YTBjZjA1LWY1MmMtNGM2OC1iNGZhLWYwZmFhODRjOWFhOQ.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4D0BAQFvFOMu14-U4A/company-logo_100_100/0?e=2126476800&v=beta&t=MDxz5mO4PG4nP00gH2NJLRpA1AUVbeUn4RQW6DkVA3o"},"canonicalName":"Symantec"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"3 hours ago","formattedPostedDaysAgoShort":"3h","formattedListDate":"May 22, 2018","offsiteApply":true,"jobPostingLocalizedCompanyName":"Symantec","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:WORKDAY","jobPosting":"urn:li:jobPosting:684134739","applyMethod":{"com.linkedin.jobs.OffsiteApply":{}},"lastEligibilityCheckAt":1526975976958},"jobPostingFormattedCityName":"Mountain View","jobPostingNativeCityName":"Mountain View"},"seeMoreJobsUrl":{"anchorText":"More Mountain View jobs","url":"https://www.linkedin.com/jobs/jobs-in-mountain-view-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/it-intern-at-symantec-684134739?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A1%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/it-intern-at-symantec-684134739?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A1%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/it-intern-at-symantec-684134739","applyMethod":"offsiteApply","companyTextUrl":"https://www.linkedin.com/company/symantec/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":false,"decoratedJobPosting":{"jobPosting":{"listDate":1526974455000,"countryCode":"us","companyName":"Aruba HPE","listingType":"PREMIUM","id":703649088,"title":"DevOps Engineer, IntroSpect","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"careers.hpe.com"},"formattedDescription":"The IntroSpect product development team is looking for a DevOps engineer with a strong system background to build an evolve the IntroSpect Cloud Platform. To create a mobility ...","formattedTitle":"\u003cB\u003eDevOps\u003c/B\u003e Engineer, IntroSpect","cityState":"Santa Clara, California","companyName":"Aruba HPE","formattedLocation":"Santa Clara, CA, US","decoratedCompany":{"company":{"companyId":162533,"names":[{"name":"Aruba, a Hewlett Packard Enterprise company","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"aruba-a-hewlett-packard-enterprise-company"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAwQIAAkAAQAAAAAAABIkAAAAJDg2YTM1MjhhLTA1OTYtNDk5Yy1iN2Q3LTk2YjhjYWMwMjQwOQ.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C510BAQFsjadz8RjU4Q/company-logo_100_100/0?e=2126476800&v=beta&t=S5ThtsE9kE9shHwVgnQ3KfISqa9-Fm55cZZ-QRUh07E"},"canonicalName":"Aruba, a Hewlett Packard Enterprise company"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"3 hours ago","formattedPostedDaysAgoShort":"3h","formattedListDate":"May 22, 2018","offsiteApply":true,"jobPostingLocalizedCompanyName":"Aruba, a Hewlett Packard Enterprise company","applicationSetting":{"jobPosting":"urn:li:jobPosting:703649088","applyMethod":{"com.linkedin.jobs.OffsiteApply":{}},"lastEligibilityCheckAt":1526974482632},"jobPostingFormattedCityName":"Santa Clara","jobPostingNativeCityName":"Santa Clara"},"seeMoreJobsUrl":{"anchorText":"More Santa Clara jobs","url":"https://www.linkedin.com/jobs/jobs-in-santa-clara-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/devops-engineer-introspect-at-aruba-a-hewlett-packard-enterprise-company-703649088?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A2%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/devops-engineer-introspect-at-aruba-a-hewlett-packard-enterprise-company-703649088?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A2%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/devops-engineer-introspect-at-aruba-a-hewlett-packard-enterprise-company-703649088","applyMethod":"offsiteApply","companyTextUrl":"https://www.linkedin.com/company/aruba-a-hewlett-packard-enterprise-company/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526961970000,"countryCode":"us","companyName":"CoreTechs","listingType":"PREMIUM","id":666175270,"applicationRouting":"LINKEDIN","title":"Big Data Systems Administrator Online Gaming"},"formattedDescription":"Experience in writing, debugging and troubleshooting analytics jobs, map/reduce jobs, and spark jobs. Experience with any of the following: Prometheus, Grafana, Kibana, Icinga, ...","formattedTitle":"Big Data Systems Administrator Online Gaming","cityState":"Redwood City, California","companyName":"CoreTechs","formattedLocation":"Redwood City, California","decoratedCompany":{"company":{"companyId":89018,"names":[{"name":"CoreTechs","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"coretechs"},"hasPaidLcp":false,"companyLogo":{"urn":"urn:li:media:/AAMABAQIAAkAAQAAAAAAABDJAAAAJDU4YzU1NmFlLWY4ZWQtNDc2YS04ZDFmLWU3ODUzMmY2NDg0OQ.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C560BAQFbE741ZXKzvA/company-logo_100_100/0?e=2126476800&v=beta&t=GgNE44dNt9VmpR0PGzTJlmMEREkSb1Zlv8_-C-JnJKY"},"canonicalName":"CoreTechs"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"6 hours ago","formattedPostedDaysAgoShort":"6h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"CoreTechs","applicationSetting":{"jobPosting":"urn:li:jobPosting:666175270","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{}}},"jobPostingFormattedCityName":"Redwood City","jobPostingNativeCityName":"Redwood City"},"seeMoreJobsUrl":{"anchorText":"More Redwood City jobs","url":"https://www.linkedin.com/jobs/jobs-in-redwood-city-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/big-data-systems-administrator-online-gaming-at-coretechs-666175270?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A3%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/big-data-systems-administrator-online-gaming-at-coretechs-666175270?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A3%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/big-data-systems-administrator-online-gaming-at-coretechs-666175270","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/coretechs?trk=jobs_jserp_job_listing_company_name"},{"isInApply":false,"decoratedJobPosting":{"jobPosting":{"listDate":1526958589000,"countryCode":"us","companyName":"27140932","listingType":"BASIC","id":684128390,"title":"Build and Release Engineer","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"glassdoorjobs.thejobnetwork.com"},"formattedDescription":"The ideal candidate has extensive DevOps knowledge and experience, and has previously managed modern cloud systems in a fast-paced, agile environment. We are looking for a ...","formattedTitle":"Build and Release Engineer","cityState":"Sunnyvale, California","companyName":"27140932","formattedLocation":"Sunnyvale, CA, US","decoratedCompany":{"company":{"companyId":27140932,"names":[{"name":"Jobs @ TheJobNetwork","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"jobs-thejobnetwork"},"hasPaidLcp":false,"companyLogo":{"urn":"urn:li:media:/AAMAAgQIAAkAAQAAAAAAABCPAAAAJDZjMjc1MTE0LTk3NzEtNDMwMC1hZDRmLTMyMjVkYzNiMmFiMg.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4D0BAQGVkpuGNa3Xtw/company-logo_100_100/0?e=2126476800&v=beta&t=IW0RnqhIJvSGbQh96-jjFM5KPae8dyLiyur0tHHoKps"},"canonicalName":"Jobs @ TheJobNetwork"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"7 hours ago","formattedPostedDaysAgoShort":"7h","formattedListDate":"May 22, 2018","offsiteApply":true,"jobPostingLocalizedCompanyName":"Jobs @ TheJobNetwork","applicationSetting":{"jobPosting":"urn:li:jobPosting:684128390","applyMethod":{"com.linkedin.jobs.OffsiteApply":{}},"lastEligibilityCheckAt":1526958613433},"jobPostingFormattedCityName":"Sunnyvale","jobPostingNativeCityName":"Sunnyvale"},"seeMoreJobsUrl":{"anchorText":"More Sunnyvale jobs","url":"https://www.linkedin.com/jobs/jobs-in-sunnyvale-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/build-and-release-engineer-at-jobs-%40-thejobnetwork-684128390?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A4%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/build-and-release-engineer-at-jobs-%40-thejobnetwork-684128390?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A4%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/build-and-release-engineer-at-jobs-%40-thejobnetwork-684128390","applyMethod":"offsiteApply","companyTextUrl":"https://www.linkedin.com/company/jobs-thejobnetwork?trk=jobs_jserp_job_listing_company_name"},{"isInApply":false,"decoratedJobPosting":{"jobPosting":{"listDate":1526953557000,"countryCode":"us","companyName":"Iksula Inc","listingType":"BASIC","id":703348840,"title":"Sterling Commerce","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"adzuna.com"},"formattedDescription":"Provided by Dice Sterling Commerce, Devops. Hello:We are currently looking for a Sterling Commerce consultant with Devops.Retail/eCommerce experience.If interested please email ...","formattedTitle":"Sterling Commerce","cityState":"Sunnyvale, California","companyName":"Iksula Inc","formattedLocation":"Sunnyvale, CA, US","decoratedCompany":{"company":{"companyId":444004,"names":[{"name":"Iksula","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"iksula"},"hasPaidLcp":false,"companyLogo":{"urn":"urn:li:media:/AAMAAwQIAAkAAQAAAAAAAA9vAAAAJDZmYjkyMDBkLTUzNTgtNDZkYy1hZTZlLTdiN2RiNWRhMzU5Yg.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C510BAQEXSQ19NG2enA/company-logo_100_100/0?e=2126476800&v=beta&t=_Rtt8pQujmbCIxURSMM6BeA65oBaFUdmQA-kMu2JPYI"},"canonicalName":"Iksula"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"9 hours ago","formattedPostedDaysAgoShort":"9h","formattedListDate":"May 22, 2018","offsiteApply":true,"jobPostingLocalizedCompanyName":"Iksula","applicationSetting":{"jobPosting":"urn:li:jobPosting:703348840","applyMethod":{"com.linkedin.jobs.OffsiteApply":{}},"lastEligibilityCheckAt":1526953639611},"jobPostingFormattedCityName":"Sunnyvale","jobPostingNativeCityName":"Sunnyvale"},"seeMoreJobsUrl":{"anchorText":"More Sunnyvale jobs","url":"https://www.linkedin.com/jobs/jobs-in-sunnyvale-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/sterling-commerce-at-iksula-703348840?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A5%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/sterling-commerce-at-iksula-703348840?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A5%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/sterling-commerce-at-iksula-703348840","applyMethod":"offsiteApply","companyTextUrl":"https://www.linkedin.com/company/iksula?trk=jobs_jserp_job_listing_company_name"},{"isInApply":false,"decoratedJobPosting":{"jobPosting":{"listDate":1526951487000,"countryCode":"us","companyName":"Wikimedia Foundation","listingType":"PREMIUM","id":565898613,"applicationRouting":"COMPANY_WEBSITE","title":"Appliation Security Engineer"},"formattedDescription":"The Wikimedia Foundation is looking for an Application Security Engineer to join the Security team working to help protect Wikipedia and our other projects. Experience using ...","formattedTitle":"Appliation Security Engineer","cityState":"San Francisco, California","companyName":"Wikimedia Foundation","formattedLocation":"San Francisco Bay Area","decoratedCompany":{"company":{"companyId":27378,"names":[{"name":"Wikimedia Foundation","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"wikimedia-foundation"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAQQIAAkAAQAAAAAAABDTAAAAJDk2ZjY3MTJlLTRkZTktNGMxOS1hYzliLWJhZDAxNjZjM2IzNA.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4E0BAQF3llJ-DxuEFA/company-logo_100_100/0?e=2126476800&v=beta&t=n9ffTvV2z7YaLJB6l_29eLGUYenspWgtGKhQBa_4HUU"},"canonicalName":"Wikimedia Foundation"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"9 hours ago","formattedPostedDaysAgoShort":"9h","formattedListDate":"May 22, 2018","offsiteApply":true,"jobPostingLocalizedCompanyName":"Wikimedia Foundation","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:GREENHOUSE","atsClient":"urn:li:atsClient:(urn:li:applicantTrackingSystem:GREENHOUSE,6606804206056657922)","lastEligibilityCheckError":"INELIGIBLE","jobPosting":"urn:li:jobPosting:565898613","applyMethod":{"com.linkedin.jobs.OffsiteApply":{}},"lastEligibilityCheckAt":1526973673263},"jobPostingFormattedCityName":"San Francisco","jobPostingNativeCityName":"San Francisco"},"seeMoreJobsUrl":{"anchorText":"More San Francisco jobs","url":"https://www.linkedin.com/jobs/jobs-in-san-francisco-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/appliation-security-engineer-at-wikimedia-foundation-565898613?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A6%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/appliation-security-engineer-at-wikimedia-foundation-565898613?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A6%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/appliation-security-engineer-at-wikimedia-foundation-565898613","applyMethod":"offsiteApply","companyTextUrl":"https://www.linkedin.com/company/wikimedia-foundation/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":false,"decoratedJobPosting":{"jobPosting":{"listDate":1526949990000,"countryCode":"us","companyName":"Palo Alto Networks","listingType":"PREMIUM","id":684124832,"title":"Sr Site Reliability Engineer (DevOps)","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"jobs.jobvite.com"},"formattedDescription":"We offer the chance to be part of an important mission: ending breaches and protecting our way of digital life. You are not an operator, you&rsquo;re an experienced software engineer...","formattedTitle":"Sr Site Reliability Engineer (\u003cB\u003eDevOps\u003c/B\u003e)","cityState":"Santa Clara, California","companyName":"Palo Alto Networks","formattedLocation":"Santa Clara, CA, US","decoratedCompany":{"company":{"companyId":30086,"names":[{"name":"Palo Alto Networks","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"palo-alto-networks"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAgQIAAkAAQAAAAAAABDSAAAAJGU0YjU4YjY2LTg2YWEtNDcwNi1iOTdiLWUzNTQ1ZjRiZjc0OQ.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4D0BAQHhV4z5Uj6GFw/company-logo_100_100/0?e=2126476800&v=beta&t=PwFSp2Fsem2ewseKq_b_FVNshopFcldh80iRpqexfSw"},"canonicalName":"Palo Alto Networks"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"10 hours ago","formattedPostedDaysAgoShort":"10h","formattedListDate":"May 22, 2018","offsiteApply":true,"jobPostingLocalizedCompanyName":"Palo Alto Networks","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:JOBVITE","atsClient":"urn:li:atsClient:(urn:li:applicantTrackingSystem:JOBVITE,8506)","lastEligibilityCheckError":"INELIGIBLE","jobPosting":"urn:li:jobPosting:684124832","applyMethod":{"com.linkedin.jobs.OffsiteApply":{}},"lastEligibilityCheckAt":1526950018252},"jobPostingFormattedCityName":"Santa Clara","jobPostingNativeCityName":"Santa Clara"},"seeMoreJobsUrl":{"anchorText":"More Santa Clara jobs","url":"https://www.linkedin.com/jobs/jobs-in-santa-clara-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/sr-site-reliability-engineer-devops-at-palo-alto-networks-684124832?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A7%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/sr-site-reliability-engineer-devops-at-palo-alto-networks-684124832?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A7%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/sr-site-reliability-engineer-devops-at-palo-alto-networks-684124832","applyMethod":"offsiteApply","companyTextUrl":"https://www.linkedin.com/company/palo-alto-networks/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526948819000,"countryCode":"us","companyName":"Integrated Associates Inc.","listingType":"PREMIUM","id":684124788,"applicationRouting":"LINKEDIN","title":"iOS OR Android Developer - $75-85/HR - 14 Months"},"formattedDescription":"Our client is seeking a&nbsp;Passionate &hellip; Efficient &hellip; Innovative &hellip; Entrepreneurial &hellip; Self-directed &hellip; Collaborative consultant. Solid communication skills: Demonstrated ability ...","formattedTitle":"iOS OR Android Developer - $75-85/HR - 14 Months","cityState":"Mountain View, California","companyName":"Integrated Associates Inc.","formattedLocation":"Mountain View, California","decoratedCompany":{"company":{"companyId":2746801,"names":[{"name":"Integrated Associates Inc.","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"integrated-associates-inc-"},"hasPaidLcp":false,"companyLogo":{"urn":"urn:li:media:/AAMAAwQIAAkAAQAAAAAAAA5fAAAAJGM3NjZlMmVmLTI4OGItNGIzZC1hODViLTk4YTFkYmI4Mjg1Nw.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C510BAQF-CeADadTHxA/company-logo_100_100/0?e=2126476800&v=beta&t=cl-NBbgHeheYHPEZkzp_6mLZUwLNqt7eFg_sZWUeRZI"},"canonicalName":"Integrated Associates Inc."},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"10 hours ago","formattedPostedDaysAgoShort":"10h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"Integrated Associates Inc.","applicationSetting":{"jobPosting":"urn:li:jobPosting:684124788","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{}}},"jobPostingFormattedCityName":"Mountain View","jobPostingNativeCityName":"Mountain View"},"seeMoreJobsUrl":{"anchorText":"More Mountain View jobs","url":"https://www.linkedin.com/jobs/jobs-in-mountain-view-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/ios-or-android-developer-%2475-85-hr-14-months-at-integrated-associates-inc-684124788?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A8%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/ios-or-android-developer-%2475-85-hr-14-months-at-integrated-associates-inc-684124788?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A8%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/ios-or-android-developer-%2475-85-hr-14-months-at-integrated-associates-inc-684124788","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/integrated-associates-inc-?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526947285000,"countryCode":"us","companyName":"Oath","listingType":"PREMIUM","id":568178806,"applicationRouting":"LINKEDIN","title":"Production Engineer(Devops)"},"formattedDescription":"We are looking for software engineers who: Oath Media Brands and Products delivers delightful, inspiring and entertaining daily-habit experiences to over half a billion people ...","formattedTitle":"Production Engineer(\u003cB\u003eDevops\u003c/B\u003e)","cityState":"Sunnyvale, California","companyName":"Oath","formattedLocation":"Sunnyvale, California","decoratedCompany":{"company":{"companyId":18022779,"names":[{"name":"Oath","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"oathco"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAgQIAAkAAQAAAAAAAAn8AAAAJDdjYmI0NTc0LWY0NDYtNGUxNS04OWNhLTI5NDlkZmRjNjkzZQ.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4D0BAQF3qg-PcLM4Rw/company-logo_100_100/0?e=2126476800&v=beta&t=34l8QdLykhSwT-AaP__tHjd_SnkLmtI5KQNiCm1H_10"},"canonicalName":"Oath"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"11 hours ago","formattedPostedDaysAgoShort":"11h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"Oath","applicationSetting":{"jobPosting":"urn:li:jobPosting:568178806","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{}},"lastEligibilityCheckAt":1524546274320},"jobPostingFormattedCityName":"Sunnyvale","jobPostingNativeCityName":"Sunnyvale"},"seeMoreJobsUrl":{"anchorText":"More Sunnyvale jobs","url":"https://www.linkedin.com/jobs/jobs-in-sunnyvale-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/production-engineer-devops-at-oath-568178806?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A9%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/production-engineer-devops-at-oath-568178806?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A9%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/production-engineer-devops-at-oath-568178806","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/oathco/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526947239000,"countryCode":"us","companyName":"Zentera Systems, Inc.","listingType":"PREMIUM","id":641364791,"applicationRouting":"LINKEDIN","title":"Technology Evangelist"},"formattedDescription":"Strong written and oral communication skills with public speaking experience. Zentera Systems is seeking a code-savvy technology evangelist&nbsp;to join us in helping our enterprise...","formattedTitle":"Technology Evangelist","cityState":"San Jose, California","companyName":"Zentera Systems, Inc.","formattedLocation":"2099 Gateway Place Suite #420, San Jose, CA 95110, US","decoratedCompany":{"company":{"companyId":3136515,"names":[{"name":"Zentera Systems, Inc.","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"zentera-systems"},"hasPaidLcp":false,"companyLogo":{"urn":"urn:li:media:/AAMAAQQIAAkAAQAAAAAAAA3qAAAAJGYwNzJlMTFlLTJjMzgtNGM2Ni05MTllLWNlYmViZDllMDYzNQ.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4E0BAQERnCT1OtNcuQ/company-logo_100_100/0?e=2126476800&v=beta&t=H4ziG9qN-20bEdvWpUgijWfXiOFFhOwLO8WRkAw37uw"},"canonicalName":"Zentera Systems, Inc."},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"11 hours ago","formattedPostedDaysAgoShort":"11h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"Zentera Systems, Inc.","applicationSetting":{"jobPosting":"urn:li:jobPosting:641364791","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{}},"lastEligibilityCheckAt":1525146640446},"jobPostingFormattedCityName":"San Jose","jobPostingNativeCityName":"San Jose"},"seeMoreJobsUrl":{"anchorText":"More San Jose jobs","url":"https://www.linkedin.com/jobs/jobs-in-san-jose-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/technology-evangelist-at-zentera-systems-inc-641364791?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A10%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/technology-evangelist-at-zentera-systems-inc-641364791?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A10%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/technology-evangelist-at-zentera-systems-inc-641364791","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/zentera-systems?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526947237000,"countryCode":"us","companyName":"Primer AI","listingType":"PREMIUM","id":619850210,"applicationRouting":"LINKEDIN","title":"Solutions Architect"},"formattedDescription":"3-5 years experience with DevOps / SRE technologies and best practices. A Solutions Architect will have the unique role of leveraging their engineering skills to solve ...","formattedTitle":"Solutions Architect","cityState":"San Francisco, California","companyName":"Primer AI","formattedLocation":"San Francisco Bay Area","decoratedCompany":{"company":{"companyId":18317937,"names":[{"name":"Primer AI","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"primer-ai"},"hasPaidLcp":false,"companyLogo":{"urn":"urn:li:media:/AAMAAwQIAAkAAQAAAAAAABBbAAAAJDEwMzRiZWM2LWI5MmItNDk1MC04OGRhLTgwYWZlZjgyZTIxNw.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C510BAQHrehv-gcVT1Q/company-logo_100_100/0?e=2126476800&v=beta&t=a75-SX7WnDJdONZ7oCzjlm9f1nH7VEdeXaS_SSvewwM"},"canonicalName":"Primer AI"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"11 hours ago","formattedPostedDaysAgoShort":"11h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"Primer AI","applicationSetting":{"jobPosting":"urn:li:jobPosting:619850210","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{}},"lastEligibilityCheckAt":1525219681842},"jobPostingFormattedCityName":"San Francisco","jobPostingNativeCityName":"San Francisco"},"seeMoreJobsUrl":{"anchorText":"More San Francisco jobs","url":"https://www.linkedin.com/jobs/jobs-in-san-francisco-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/solutions-architect-at-primer-ai-619850210?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A11%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/solutions-architect-at-primer-ai-619850210?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A11%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/solutions-architect-at-primer-ai-619850210","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/primer-ai?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526947200000,"countryCode":"us","companyName":"CyberCoders","listingType":"BASIC","id":684140506,"title":"Principal Cloud Engineer","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"cybercoders.com"},"formattedDescription":"Working experience with technologies such as Spark, Akka, AWS EC2, RDS, Elastic Search, DataStax enterprise Cassandra and MySQL. Experience developing cloud applications and ...","formattedTitle":"Principal Cloud Engineer","cityState":"San Jose, California","companyName":"CyberCoders","formattedLocation":"San Jose, CA, US","decoratedCompany":{"company":{"companyId":21836,"names":[{"name":"CyberCoders","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"cybercoders"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAQQIAAkAAQAAAAAAABIxAAAAJDIxZTFjODM0LTljZmQtNGVmZS1hMDVmLWY0NTg1MjcxNjhkMA.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4E0BAQGWhhc552_2ng/company-logo_100_100/0?e=2126476800&v=beta&t=uS8Z8K_lyf6ZdTKY24EuJ1obBpY0fcyvDy-h4szshD0"},"canonicalName":"CyberCoders"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"11 hours ago","formattedPostedDaysAgoShort":"11h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"CyberCoders","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS","atsClient":"urn:li:atsClient:(urn:li:applicantTrackingSystem:CYBERCODERS,3747182080043506555)","jobPosting":"urn:li:jobPosting:684140506","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS"}},"lastEligibilityCheckAt":1526986323476},"jobPostingFormattedCityName":"San Jose","jobPostingNativeCityName":"San Jose"},"seeMoreJobsUrl":{"anchorText":"More San Jose jobs","url":"https://www.linkedin.com/jobs/jobs-in-san-jose-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/principal-cloud-engineer-at-cybercoders-684140506?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A12%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/principal-cloud-engineer-at-cybercoders-684140506?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A12%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/principal-cloud-engineer-at-cybercoders-684140506","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/cybercoders/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526947200000,"countryCode":"us","companyName":"CyberCoders","listingType":"BASIC","id":684140463,"title":"Senior Back End Engineer - Java, AWS","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"cybercoders.com"},"formattedDescription":"Working experience in Spark, Akka, AWS EC2, RDS, Elastic Search, DataStax enterprise Cassandra, MySQL. Work closely with product, engineering, QA, DevOps and support teams to ...","formattedTitle":"Senior Back End Engineer - Java, AWS","cityState":"San Jose, California","companyName":"CyberCoders","formattedLocation":"San Jose, CA, US","decoratedCompany":{"company":{"companyId":21836,"names":[{"name":"CyberCoders","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"cybercoders"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAQQIAAkAAQAAAAAAABIxAAAAJDIxZTFjODM0LTljZmQtNGVmZS1hMDVmLWY0NTg1MjcxNjhkMA.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4E0BAQGWhhc552_2ng/company-logo_100_100/0?e=2126476800&v=beta&t=uS8Z8K_lyf6ZdTKY24EuJ1obBpY0fcyvDy-h4szshD0"},"canonicalName":"CyberCoders"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"11 hours ago","formattedPostedDaysAgoShort":"11h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"CyberCoders","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS","atsClient":"urn:li:atsClient:(urn:li:applicantTrackingSystem:CYBERCODERS,3747182080043506555)","jobPosting":"urn:li:jobPosting:684140463","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS"}},"lastEligibilityCheckAt":1526986303114},"jobPostingFormattedCityName":"San Jose","jobPostingNativeCityName":"San Jose"},"seeMoreJobsUrl":{"anchorText":"More San Jose jobs","url":"https://www.linkedin.com/jobs/jobs-in-san-jose-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/senior-back-end-engineer-java-aws-at-cybercoders-684140463?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A13%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/senior-back-end-engineer-java-aws-at-cybercoders-684140463?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A13%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/senior-back-end-engineer-java-aws-at-cybercoders-684140463","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/cybercoders/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526947200000,"countryCode":"us","companyName":"CyberCoders","listingType":"BASIC","id":684140494,"title":"Lead DevOps Engineer","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"cybercoders.com"},"formattedDescription":"6+ year of strong experience leading design and hands-on development of software products, solutions, and integrations with third party software. Experience working on cloud, ...","formattedTitle":"Lead \u003cB\u003eDevOps\u003c/B\u003e Engineer","cityState":"San Jose, California","companyName":"CyberCoders","formattedLocation":"San Jose, CA, US","decoratedCompany":{"company":{"companyId":21836,"names":[{"name":"CyberCoders","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"cybercoders"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAQQIAAkAAQAAAAAAABIxAAAAJDIxZTFjODM0LTljZmQtNGVmZS1hMDVmLWY0NTg1MjcxNjhkMA.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4E0BAQGWhhc552_2ng/company-logo_100_100/0?e=2126476800&v=beta&t=uS8Z8K_lyf6ZdTKY24EuJ1obBpY0fcyvDy-h4szshD0"},"canonicalName":"CyberCoders"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"11 hours ago","formattedPostedDaysAgoShort":"11h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"CyberCoders","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS","atsClient":"urn:li:atsClient:(urn:li:applicantTrackingSystem:CYBERCODERS,3747182080043506555)","jobPosting":"urn:li:jobPosting:684140494","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS"}},"lastEligibilityCheckAt":1526986322813},"jobPostingFormattedCityName":"San Jose","jobPostingNativeCityName":"San Jose"},"seeMoreJobsUrl":{"anchorText":"More San Jose jobs","url":"https://www.linkedin.com/jobs/jobs-in-san-jose-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/lead-devops-engineer-at-cybercoders-684140494?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A14%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/lead-devops-engineer-at-cybercoders-684140494?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A14%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/lead-devops-engineer-at-cybercoders-684140494","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/cybercoders/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526947200000,"countryCode":"us","companyName":"CyberCoders","listingType":"BASIC","id":684139558,"title":"Build and Release Engineer - Linux, Source control and build too","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"cybercoders.com"},"formattedDescription":"At Least 5 Years Of Experience And Knowledge Of. This is the perfect time to join \u002d\u002d We are a Series B company that closed a huge round of funding in the past year and are ...","formattedTitle":"Build and Release Engineer - Linux, Source control and build too","cityState":"San Mateo, California","companyName":"CyberCoders","formattedLocation":"San Mateo, CA, US","decoratedCompany":{"company":{"companyId":21836,"names":[{"name":"CyberCoders","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"cybercoders"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAQQIAAkAAQAAAAAAABIxAAAAJDIxZTFjODM0LTljZmQtNGVmZS1hMDVmLWY0NTg1MjcxNjhkMA.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4E0BAQGWhhc552_2ng/company-logo_100_100/0?e=2126476800&v=beta&t=uS8Z8K_lyf6ZdTKY24EuJ1obBpY0fcyvDy-h4szshD0"},"canonicalName":"CyberCoders"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"11 hours ago","formattedPostedDaysAgoShort":"11h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"CyberCoders","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS","atsClient":"urn:li:atsClient:(urn:li:applicantTrackingSystem:CYBERCODERS,3747182080043506555)","jobPosting":"urn:li:jobPosting:684139558","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS"}},"lastEligibilityCheckAt":1526986336580},"jobPostingFormattedCityName":"San Mateo","jobPostingNativeCityName":"San Mateo"},"seeMoreJobsUrl":{"anchorText":"More San Mateo jobs","url":"https://www.linkedin.com/jobs/jobs-in-san-mateo-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/build-and-release-engineer-linux-source-control-and-build-too-at-cybercoders-684139558?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A15%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/build-and-release-engineer-linux-source-control-and-build-too-at-cybercoders-684139558?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A15%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/build-and-release-engineer-linux-source-control-and-build-too-at-cybercoders-684139558","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/cybercoders/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526947200000,"countryCode":"us","companyName":"CyberCoders","listingType":"BASIC","id":684140945,"title":"Senior Developer Support Engineer","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"cybercoders.com"},"formattedDescription":"3+ years of experience with Level 3 level SOFTWARE support. Programming and debugging skills are an advantage. Excellent English verbal and written communication skills. We are ...","formattedTitle":"Senior Developer Support Engineer","cityState":"Sunnyvale, California","companyName":"CyberCoders","formattedLocation":"Sunnyvale, CA, US","decoratedCompany":{"company":{"companyId":21836,"names":[{"name":"CyberCoders","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"cybercoders"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAQQIAAkAAQAAAAAAABIxAAAAJDIxZTFjODM0LTljZmQtNGVmZS1hMDVmLWY0NTg1MjcxNjhkMA.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4E0BAQGWhhc552_2ng/company-logo_100_100/0?e=2126476800&v=beta&t=uS8Z8K_lyf6ZdTKY24EuJ1obBpY0fcyvDy-h4szshD0"},"canonicalName":"CyberCoders"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"11 hours ago","formattedPostedDaysAgoShort":"11h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"CyberCoders","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS","atsClient":"urn:li:atsClient:(urn:li:applicantTrackingSystem:CYBERCODERS,3747182080043506555)","jobPosting":"urn:li:jobPosting:684140945","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS"}},"lastEligibilityCheckAt":1526986497591},"jobPostingFormattedCityName":"Sunnyvale","jobPostingNativeCityName":"Sunnyvale"},"seeMoreJobsUrl":{"anchorText":"More Sunnyvale jobs","url":"https://www.linkedin.com/jobs/jobs-in-sunnyvale-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/senior-developer-support-engineer-at-cybercoders-684140945?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A16%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/senior-developer-support-engineer-at-cybercoders-684140945?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A16%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/senior-developer-support-engineer-at-cybercoders-684140945","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/cybercoders/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526947200000,"countryCode":"us","companyName":"CyberCoders","listingType":"BASIC","id":684139545,"title":"Lead Software Engineer (Java)","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"cybercoders.com"},"formattedDescription":"We help organizations making embedded, mobile, and enterprise web/IT apps deliver better software faster by automating and accelerating build, est, and deployment processes at ...","formattedTitle":"Lead Software Engineer (Java)","cityState":"San Jose, California","companyName":"CyberCoders","formattedLocation":"San Jose, CA, US","decoratedCompany":{"company":{"companyId":21836,"names":[{"name":"CyberCoders","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"cybercoders"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAQQIAAkAAQAAAAAAABIxAAAAJDIxZTFjODM0LTljZmQtNGVmZS1hMDVmLWY0NTg1MjcxNjhkMA.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4E0BAQGWhhc552_2ng/company-logo_100_100/0?e=2126476800&v=beta&t=uS8Z8K_lyf6ZdTKY24EuJ1obBpY0fcyvDy-h4szshD0"},"canonicalName":"CyberCoders"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"11 hours ago","formattedPostedDaysAgoShort":"11h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"CyberCoders","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS","atsClient":"urn:li:atsClient:(urn:li:applicantTrackingSystem:CYBERCODERS,3747182080043506555)","jobPosting":"urn:li:jobPosting:684139545","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS"}},"lastEligibilityCheckAt":1526986328181},"jobPostingFormattedCityName":"San Jose","jobPostingNativeCityName":"San Jose"},"seeMoreJobsUrl":{"anchorText":"More San Jose jobs","url":"https://www.linkedin.com/jobs/jobs-in-san-jose-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/lead-software-engineer-java-at-cybercoders-684139545?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A17%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/lead-software-engineer-java-at-cybercoders-684139545?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A17%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/lead-software-engineer-java-at-cybercoders-684139545","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/cybercoders/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526947200000,"countryCode":"us","companyName":"CyberCoders","listingType":"BASIC","id":684141362,"title":"Senior DevOps Engineer - Hybrid Cloud Infrastructure","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"cybercoders.com"},"formattedDescription":"Experience with logging and monitoring systems. Experience with virtualization and containerization: VMware, VirtualBox, Docker. Solid Cloud experience, preferably AWS. You must...","formattedTitle":"Senior \u003cB\u003eDevOps\u003c/B\u003e Engineer - Hybrid Cloud Infrastructure","cityState":"San Jose, California","companyName":"CyberCoders","formattedLocation":"San Jose, CA, US","decoratedCompany":{"company":{"companyId":21836,"names":[{"name":"CyberCoders","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"cybercoders"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAQQIAAkAAQAAAAAAABIxAAAAJDIxZTFjODM0LTljZmQtNGVmZS1hMDVmLWY0NTg1MjcxNjhkMA.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4E0BAQGWhhc552_2ng/company-logo_100_100/0?e=2126476800&v=beta&t=uS8Z8K_lyf6ZdTKY24EuJ1obBpY0fcyvDy-h4szshD0"},"canonicalName":"CyberCoders"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"11 hours ago","formattedPostedDaysAgoShort":"11h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"CyberCoders","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS","atsClient":"urn:li:atsClient:(urn:li:applicantTrackingSystem:CYBERCODERS,3747182080043506555)","jobPosting":"urn:li:jobPosting:684141362","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS"}},"lastEligibilityCheckAt":1526986602788},"jobPostingFormattedCityName":"San Jose","jobPostingNativeCityName":"San Jose"},"seeMoreJobsUrl":{"anchorText":"More San Jose jobs","url":"https://www.linkedin.com/jobs/jobs-in-san-jose-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/senior-devops-engineer-hybrid-cloud-infrastructure-at-cybercoders-684141362?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A18%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/senior-devops-engineer-hybrid-cloud-infrastructure-at-cybercoders-684141362?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A18%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/senior-devops-engineer-hybrid-cloud-infrastructure-at-cybercoders-684141362","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/cybercoders/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526947200000,"countryCode":"us","companyName":"CyberCoders","listingType":"BASIC","id":684141090,"title":"Full Stack Engineer","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"cybercoders.com"},"formattedDescription":"We're seeking skilled, creative, experienced, and passionate software engineers who can wear many hats in product development. We are a law firm with an affiliated technology ...","formattedTitle":"Full Stack Engineer","cityState":"Palo Alto, California","companyName":"CyberCoders","formattedLocation":"Palo Alto, CA, US","decoratedCompany":{"company":{"companyId":21836,"names":[{"name":"CyberCoders","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"cybercoders"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAQQIAAkAAQAAAAAAABIxAAAAJDIxZTFjODM0LTljZmQtNGVmZS1hMDVmLWY0NTg1MjcxNjhkMA.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4E0BAQGWhhc552_2ng/company-logo_100_100/0?e=2126476800&v=beta&t=uS8Z8K_lyf6ZdTKY24EuJ1obBpY0fcyvDy-h4szshD0"},"canonicalName":"CyberCoders"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"11 hours ago","formattedPostedDaysAgoShort":"11h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"CyberCoders","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS","atsClient":"urn:li:atsClient:(urn:li:applicantTrackingSystem:CYBERCODERS,3747182080043506555)","jobPosting":"urn:li:jobPosting:684141090","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS"}},"lastEligibilityCheckAt":1526986434483},"jobPostingFormattedCityName":"Palo Alto","jobPostingNativeCityName":"Palo Alto"},"seeMoreJobsUrl":{"anchorText":"More Palo Alto jobs","url":"https://www.linkedin.com/jobs/jobs-in-palo-alto-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/full-stack-engineer-at-cybercoders-684141090?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A19%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/full-stack-engineer-at-cybercoders-684141090?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A19%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/full-stack-engineer-at-cybercoders-684141090","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/cybercoders/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526947200000,"countryCode":"us","companyName":"CyberCoders","listingType":"BASIC","id":684141437,"title":"Sr. DevOps Engineer (Sys Admin Focused) | Salt, AWS, Python","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"cybercoders.com"},"formattedDescription":"Situated in the heart of Silicon Valley, where the impossible becomes possible and technology evolves every day, is a stimulating opportunity for talented DevOps Engineers in ...","formattedTitle":"Sr. \u003cB\u003eDevOps\u003c/B\u003e Engineer (Sys Admin Focused) | Salt, AWS, Python","cityState":"Palo Alto, California","companyName":"CyberCoders","formattedLocation":"Palo Alto, CA, US","decoratedCompany":{"company":{"companyId":21836,"names":[{"name":"CyberCoders","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"cybercoders"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAQQIAAkAAQAAAAAAABIxAAAAJDIxZTFjODM0LTljZmQtNGVmZS1hMDVmLWY0NTg1MjcxNjhkMA.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4E0BAQGWhhc552_2ng/company-logo_100_100/0?e=2126476800&v=beta&t=uS8Z8K_lyf6ZdTKY24EuJ1obBpY0fcyvDy-h4szshD0"},"canonicalName":"CyberCoders"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"11 hours ago","formattedPostedDaysAgoShort":"11h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"CyberCoders","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS","atsClient":"urn:li:atsClient:(urn:li:applicantTrackingSystem:CYBERCODERS,3747182080043506555)","jobPosting":"urn:li:jobPosting:684141437","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS"}},"lastEligibilityCheckAt":1526986644792},"jobPostingFormattedCityName":"Palo Alto","jobPostingNativeCityName":"Palo Alto"},"seeMoreJobsUrl":{"anchorText":"More Palo Alto jobs","url":"https://www.linkedin.com/jobs/jobs-in-palo-alto-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/sr-devops-engineer-sys-admin-focused-salt-aws-python-at-cybercoders-684141437?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A20%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/sr-devops-engineer-sys-admin-focused-salt-aws-python-at-cybercoders-684141437?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A20%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/sr-devops-engineer-sys-admin-focused-salt-aws-python-at-cybercoders-684141437","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/cybercoders/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526947200000,"countryCode":"us","companyName":"CyberCoders","listingType":"BASIC","id":684142261,"title":"Senior DevOps Engineer","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"cybercoders.com"},"formattedDescription":"2-3 years of relevant work experience, hands-on Linux experience and preferably using languages like Shell/bash, Ruby, Python, Java, Perl. Monitoring and logging systems ...","formattedTitle":"Senior \u003cB\u003eDevOps\u003c/B\u003e Engineer","cityState":"Sunnyvale, California","companyName":"CyberCoders","formattedLocation":"Sunnyvale, CA, US","decoratedCompany":{"company":{"companyId":21836,"names":[{"name":"CyberCoders","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"cybercoders"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAQQIAAkAAQAAAAAAABIxAAAAJDIxZTFjODM0LTljZmQtNGVmZS1hMDVmLWY0NTg1MjcxNjhkMA.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4E0BAQGWhhc552_2ng/company-logo_100_100/0?e=2126476800&v=beta&t=uS8Z8K_lyf6ZdTKY24EuJ1obBpY0fcyvDy-h4szshD0"},"canonicalName":"CyberCoders"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"11 hours ago","formattedPostedDaysAgoShort":"11h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"CyberCoders","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS","atsClient":"urn:li:atsClient:(urn:li:applicantTrackingSystem:CYBERCODERS,3747182080043506555)","jobPosting":"urn:li:jobPosting:684142261","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS"}},"lastEligibilityCheckAt":1526986596360},"jobPostingFormattedCityName":"Sunnyvale","jobPostingNativeCityName":"Sunnyvale"},"seeMoreJobsUrl":{"anchorText":"More Sunnyvale jobs","url":"https://www.linkedin.com/jobs/jobs-in-sunnyvale-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/senior-devops-engineer-at-cybercoders-684142261?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A21%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/senior-devops-engineer-at-cybercoders-684142261?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A21%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/senior-devops-engineer-at-cybercoders-684142261","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/cybercoders/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526947200000,"countryCode":"us","companyName":"CyberCoders","listingType":"BASIC","id":684142213,"title":"Back End Java Developer","applicationRouting":"COMPANY_WEBSITE","sourceDomain":"cybercoders.com"},"formattedDescription":"We are looking to add a highly motivated and experienced Software Engineer to our team to continue developing our platform as it grows beyond our dreams! If you are interested ...","formattedTitle":"Back End Java Developer","cityState":"Mountain View, California","companyName":"CyberCoders","formattedLocation":"Mountain View, CA, US","decoratedCompany":{"company":{"companyId":21836,"names":[{"name":"CyberCoders","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"cybercoders"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMAAQQIAAkAAQAAAAAAABIxAAAAJDIxZTFjODM0LTljZmQtNGVmZS1hMDVmLWY0NTg1MjcxNjhkMA.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C4E0BAQGWhhc552_2ng/company-logo_100_100/0?e=2126476800&v=beta&t=uS8Z8K_lyf6ZdTKY24EuJ1obBpY0fcyvDy-h4szshD0"},"canonicalName":"CyberCoders"},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"11 hours ago","formattedPostedDaysAgoShort":"11h","formattedListDate":"May 22, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"CyberCoders","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS","atsClient":"urn:li:atsClient:(urn:li:applicantTrackingSystem:CYBERCODERS,3747182080043506555)","jobPosting":"urn:li:jobPosting:684142213","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:CYBERCODERS"}},"lastEligibilityCheckAt":1526986577351},"jobPostingFormattedCityName":"Mountain View","jobPostingNativeCityName":"Mountain View"},"seeMoreJobsUrl":{"anchorText":"More Mountain View jobs","url":"https://www.linkedin.com/jobs/jobs-in-mountain-view-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/back-end-java-developer-at-cybercoders-684142213?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A22%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/back-end-java-developer-at-cybercoders-684142213?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A22%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/back-end-java-developer-at-cybercoders-684142213","applyMethod":"simpleOnsiteApply","companyTextUrl":"https://www.linkedin.com/company/cybercoders/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":false,"decoratedJobPosting":{"jobPosting":{"listDate":1526942120000,"countryCode":"us","companyName":"Crunchyroll, Inc.","listingType":"PREMIUM","id":684119714,"applicationRouting":"COMPANY_WEBSITE","title":"Data Architect"},"formattedDescription":"The data engineering team at Ellation is looking for a Data Architect&nbsp;to build the next generation of data infrastructure and business intelligence services. Our offices in San...","formattedTitle":"Data Architect","cityState":"San Francisco, California","companyName":"Crunchyroll, Inc.","formattedLocation":"San Francisco Bay Area","decoratedCompany":{"company":{"companyId":167212,"names":[{"name":"Crunchyroll, Inc.","active":true,"locale":"en_US","type":"CANONICAL"}],"universalName":"crunchyroll"},"hasPaidLcp":true,"companyLogo":{"urn":"urn:li:media:/AAMABAQIAAkAAQAAAAAAAAmWAAAAJGFiMDZhNWEzLWY4OTgtNGExNy04OGIyLWVkYjgxNzEwMTU1NQ.bin","logoType":"SQUARE_LOGO_V2","link":"https://media.licdn.com/dms/image/C560BAQF8pfbq6OC6JA/company-logo_100_100/0?e=2126476800&v=beta&t=eemPmixQEDonqws30qTbAS-gdNvQy3EIQnCTMopcwaM"},"canonicalName":"Crunchyroll, Inc."},"hasDecoratedCompany":true,"formattedPostedDaysAgoSlim":"12 hours ago","formattedPostedDaysAgoShort":"12h","formattedListDate":"May 21, 2018","offsiteApply":true,"jobPostingLocalizedCompanyName":"Crunchyroll, Inc.","applicationSetting":{"applicantTrackingSystem":"urn:li:applicantTrackingSystem:GREENHOUSE","atsClient":"urn:li:atsClient:(urn:li:applicantTrackingSystem:GREENHOUSE,1750932453237070638)","lastEligibilityCheckError":"INELIGIBLE","jobPosting":"urn:li:jobPosting:684119714","applyMethod":{"com.linkedin.jobs.OffsiteApply":{}},"lastEligibilityCheckAt":1526964033498},"jobPostingFormattedCityName":"San Francisco","jobPostingNativeCityName":"San Francisco"},"seeMoreJobsUrl":{"anchorText":"More San Francisco jobs","url":"https://www.linkedin.com/jobs/jobs-in-san-francisco-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/data-architect-at-crunchyroll-inc-684119714?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A23%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/data-architect-at-crunchyroll-inc-684119714?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A23%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/data-architect-at-crunchyroll-inc-684119714","applyMethod":"offsiteApply","companyTextUrl":"https://www.linkedin.com/company/crunchyroll/careers?trk=jobs_jserp_job_listing_company_name"},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526942083000,"countryCode":"us","companyName":"Microsoft, MileIQ","listingType":"PREMIUM","id":684119712,"applicationRouting":"LINKEDIN","title":"Lead DevOps Engineer"},"formattedDescription":"Requires 5+ years of industry experience including 2 - 3 years of experience as DevOps. Experience supporting 24x7, high availability internet application environments that ...","formattedTitle":"Lead \u003cB\u003eDevOps\u003c/B\u003e Engineer","cityState":"San Francisco, California","companyName":"Microsoft, MileIQ","formattedLocation":"San Francisco Bay Area","hasDecoratedCompany":false,"formattedPostedDaysAgoSlim":"12 hours ago","formattedPostedDaysAgoShort":"12h","formattedListDate":"May 21, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"Microsoft, MileIQ","applicationSetting":{"jobPosting":"urn:li:jobPosting:684119712","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{}}},"jobPostingFormattedCityName":"San Francisco","jobPostingNativeCityName":"San Francisco"},"seeMoreJobsUrl":{"anchorText":"More San Francisco jobs","url":"https://www.linkedin.com/jobs/jobs-in-san-francisco-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/lead-devops-engineer-at-microsoft-mileiq-684119712?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A24%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/lead-devops-engineer-at-microsoft-mileiq-684119712?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A24%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/lead-devops-engineer-at-microsoft-mileiq-684119712","applyMethod":"simpleOnsiteApply","companyTextUrl":null},{"isInApply":true,"decoratedJobPosting":{"jobPosting":{"listDate":1526941844000,"countryCode":"us","companyName":"Microsoft, MileIQ","listingType":"PREMIUM","id":629601778,"applicationRouting":"LINKEDIN","title":"DataOps Engineer"},"formattedDescription":"We are looking for a DataOps Engineer. Collaborate with data scientists and engineers to deploy new machine learning and deep learning models into complex and mission critical ...","formattedTitle":"DataOps Engineer","cityState":"San Francisco, California","companyName":"Microsoft, MileIQ","formattedLocation":"San Francisco Bay Area","hasDecoratedCompany":false,"formattedPostedDaysAgoSlim":"12 hours ago","formattedPostedDaysAgoShort":"12h","formattedListDate":"May 21, 2018","offsiteApply":false,"jobPostingLocalizedCompanyName":"Microsoft, MileIQ","applicationSetting":{"jobPosting":"urn:li:jobPosting:629601778","applyMethod":{"com.linkedin.jobs.SimpleOnsiteApply":{}}},"jobPostingFormattedCityName":"San Francisco","jobPostingNativeCityName":"San Francisco"},"seeMoreJobsUrl":{"anchorText":"More San Francisco jobs","url":"https://www.linkedin.com/jobs/jobs-in-san-francisco-ca?trk=jobs_jserp_see_more_jobs"},"viewJobTextUrl":"https://www.linkedin.com/jobs/view/dataops-engineer-at-microsoft-mileiq-629601778?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A25%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_text","viewJobLogoUrl":"https://www.linkedin.com/jobs/view/dataops-engineer-at-microsoft-mileiq-629601778?trkInfo=searchKeywordString%3ADevops%2CsearchLocationString%3ASan%2BCarlos%252C%2BCA%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A25%2CMSRPsearchId%3A2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&refId=2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f&trk=jobs_jserp_job_listing_company_logo","viewJobCanonicalUrl":"https://www.linkedin.com/jobs/view/dataops-engineer-at-microsoft-mileiq-629601778","applyMethod":"simpleOnsiteApply","companyTextUrl":null}],"paging":{"count":25,"pages":[{"pageNumber":1,"pageUrl":"/jobs/search?keywords=Devops&distance=25.0&sortBy=DD&locationId=POSTAL.us.94071&start=0&count=25&applyLogin=false&trk=jobs_jserp_pagination_1","selected":true},{"pageNumber":2,"pageUrl":"/jobs/search?keywords=Devops&distance=25.0&sortBy=DD&locationId=POSTAL.us.94071&start=25&count=25&applyLogin=false&trk=jobs_jserp_pagination_2","selected":false},{"pageNumber":3,"pageUrl":"/jobs/search?keywords=Devops&distance=25.0&sortBy=DD&locationId=POSTAL.us.94071&start=50&count=25&applyLogin=false&trk=jobs_jserp_pagination_3","selected":false},{"pageNumber":4,"pageUrl":"/jobs/search?keywords=Devops&distance=25.0&sortBy=DD&locationId=POSTAL.us.94071&start=75&count=25&applyLogin=false&trk=jobs_jserp_pagination_4","selected":false},{"pageNumber":5,"pageUrl":"/jobs/search?keywords=Devops&distance=25.0&sortBy=DD&locationId=POSTAL.us.94071&start=100&count=25&applyLogin=false&trk=jobs_jserp_pagination_5","selected":false},{"pageNumber":6,"pageUrl":"/jobs/search?keywords=Devops&distance=25.0&sortBy=DD&locationId=POSTAL.us.94071&start=125&count=25&applyLogin=false&trk=jobs_jserp_pagination_6","selected":false},{"pageNumber":7,"pageUrl":"/jobs/search?keywords=Devops&distance=25.0&sortBy=DD&locationId=POSTAL.us.94071&start=150&count=25&applyLogin=false&trk=jobs_jserp_pagination_7","selected":false},{"pageNumber":8,"pageUrl":"/jobs/search?keywords=Devops&distance=25.0&sortBy=DD&locationId=POSTAL.us.94071&start=175&count=25&applyLogin=false&trk=jobs_jserp_pagination_8","selected":false},{"pageNumber":9,"pageUrl":"/jobs/search?keywords=Devops&distance=25.0&sortBy=DD&locationId=POSTAL.us.94071&start=200&count=25&applyLogin=false&trk=jobs_jserp_pagination_9","selected":false},{"pageNumber":10,"pageUrl":"/jobs/search?keywords=Devops&distance=25.0&sortBy=DD&locationId=POSTAL.us.94071&start=225&count=25&applyLogin=false&trk=jobs_jserp_pagination_10","selected":false}],"total":1763,"links":{"previous":null,"next":"/jobs/search?keywords=Devops&distance=25.0&sortBy=DD&locationId=POSTAL.us.94071&start=25&count=25&applyLogin=false"},"start":0}}--></code><script>(function(){document.addEventListener('flushReady',function(){window.__LI_JOBS_DS__.flushModule("decoratedJobPostingsModule");},false);})()</script><code id="searchValuesModule"><!--{"geoLocation":{"postalCode":"94071","countryCode":"us","placeCode":"7-1-0-41-19","regionCode":84,"stateCode":"CA","cityName":"San Carlos","stateName":"California","countryName":"United States","formattedLocation":"94071 San Carlos, CA","locationId":"POSTAL.us.94071"},"standardizedLocation":null,"locationId":"POSTAL.us.94071","searchId":"2cbc2d3e-5508-4e0e-999f-9ce6b3104b7f","keywords":"Devops","searchQueryParams":{"keywords":"Devops","distance":"25.0","sortBy":"DD","locationId":"POSTAL.us.94071"},"twoBoxDisplayLocation":"94071 San Carlos, CA"}--></code><script>(function(){document.addEventListener('flushReady',function(){window.__LI_JOBS_DS__.flushModule("searchValuesModule");},false);})()</script><code id="globalVariableModule"><!--{"currentTime":1526986901874,"isCrawler":false,"isMobilePhone":false,"isTablet":false,"pageKey":"d_jobs_jserp_guest","isPremium":false,"applyLogin":false,"isLoggedIn":false,"isDesktop":true}--></code><script>(function(){document.addEventListener('flushReady',function(){window.__LI_JOBS_DS__.flushModule("globalVariableModule");},false);})()</script><code id="distanceModule"><!--{"distances":[{"selected":false,"displayValue":"5 mi (8 km)","facetUrl":"/jobs/search?keywords=Devops&distance=5&locationId=POSTAL%2Eus%2E94071&orig=MDYS&trk=jobs_jserp_distance_5"},{"selected":false,"displayValue":"10 mi (16 km)","facetUrl":"/jobs/search?keywords=Devops&distance=10&locationId=POSTAL%2Eus%2E94071&orig=MDYS&trk=jobs_jserp_distance_10"},{"selected":false,"displayValue":"15 mi (24 km)","facetUrl":"/jobs/search?keywords=Devops&distance=15&locationId=POSTAL%2Eus%2E94071&orig=MDYS&trk=jobs_jserp_distance_15"},{"selected":true,"displayValue":"25 mi (40 km)","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&orig=MDYS&trk=jobs_jserp_distance_25"},{"selected":false,"displayValue":"50 mi (80 km)","facetUrl":"/jobs/search?keywords=Devops&distance=50&locationId=POSTAL%2Eus%2E94071&orig=MDYS&trk=jobs_jserp_distance_50"},{"selected":false,"displayValue":"100 mi (160 km)","facetUrl":"/jobs/search?keywords=Devops&distance=100&locationId=POSTAL%2Eus%2E94071&orig=MDYS&trk=jobs_jserp_distance_100"}]}--></code><script>(function(){document.addEventListener('flushReady',function(){window.__LI_JOBS_DS__.flushModule("distanceModule");},false);})()</script><code id="breadcrumbsModule"><!--{"breadcrumbs":[{"displayValue":"Jobs","url":"https://www.linkedin.com/jobs?trk=jobs_jserp_breadcrumb"},{"displayValue":"Devops Jobs","url":"https://www.linkedin.com/jobs/devops-jobs?trk=jobs_jserp_breadcrumb"},{"displayValue":"San Carlos, CA","url":null}]}--></code><script>(function(){document.addEventListener('flushReady',function(){window.__LI_JOBS_DS__.flushModule("breadcrumbsModule");},false);})()</script><code id="relatedJobSearchModule"><!--{"relatedSearchHeader":"Related searches for \u003cstrong\u003eDevops\u003c/strong\u003e","relatedSearches":[]}--></code><script>(function(){document.addEventListener('flushReady',function(){window.__LI_JOBS_DS__.flushModule("relatedJobSearchModule");},false);})()</script><code id="UILixModule"><!--{"disableNoarchiveTag":false,"showRecentSearch":false,"isSearchRelevanceFeedbackEnabled":true,"shouldUseVectorCompanyLogo":true,"isStickySearchEnabled":false,"isJobOpenInNewTabEnabled":false,"isJobsGuestChromeEnabled":true,"isFacetCollapseEnabled":false,"isSortEnabled":true,"isJserpAddLocationEnabled":false,"isJserpFacetSuggestionEnabled":true,"getJserpSeeMoreJobsLinkVariation":{"enumClass":"services.DefaultLixServiceComponent$JserpSeeMoreJobsLinkVariation","value":"city"},"isTrackingTwoEnabled":false,"isDescriptionSliderEnabled":false,"isFromJobAlertEmail":false,"isJymbiiFlavorEnabled":false,"isJserpTransparentRightRailEnabled":false,"isJserpRightRailEnabled":false,"isJserpSalaryPromoBtnCtaEnabled":false,"isSearchHistoryTypeaheadEnabled":false,"isHiddenGemFlavorEnabled":false,"experimentalTwoBoxTypeaheadEndpoint":false,"isMobileJobAlertsCreateTopEnabled":false,"isJserpSalaryPromoEnabled":true,"isJserpSeoPaginationEnabled":false,"disableNofollowTag":true,"isPostalCodeEnabled":true}--></code><script>(function(){document.addEventListener('flushReady',function(){window.__LI_JOBS_DS__.flushModule("UILixModule");},false);})()</script><code id="jobSearchAlertModule"><!--{"showManagementModal":false,"guestAuthToken":null,"showCreateModal":false,"facets":null}--></code><script>(function(){document.addEventListener('flushReady',function(){window.__LI_JOBS_DS__.flushModule("jobSearchAlertModule");},false);})()</script><code id="guestChromeDisplayModule"><!--{"isBeta":false,"jobsHomeLink":"https://www.linkedin.com/jobs?trk=jobs_chrome_home","isMobilePhone":false,"homeLink":"http://www.linkedin.com/","joinLink":"https://www.linkedin.com/start/join?session_redirect=%2Fjobs%2Fsearch%2F%3Fkeywords%3Ddevops%26location%3D94071%26locationId%3DPOSTAL%2Eus%2E94071%26sortBy%3DDD%26start%3D0%26bypassMobileRedirects%3Dfalse&source=jobs_registration&trk=jobs_mobile_chrome_join","loginLink":"https://www.linkedin.com/uas/login?session_redirect=%2Fjobs%2Fsearch%2F%3Fkeywords%3Ddevops%26location%3D94071%26locationId%3DPOSTAL%2Eus%2E94071%26sortBy%3DDD%26start%3D0%26bypassMobileRedirects%3Dfalse&emailAddress=&fromSignIn=&trk=jobs_mobile_chrome_login"}--></code><script>(function(){document.addEventListener('flushReady',function(){window.__LI_JOBS_DS__.flushModule("guestChromeDisplayModule");},false);})()</script><code id="jobCareerSubnavModule"><!--{"jobsHomeUrl":"https://www.linkedin.com/jobs?trk=subnav_jobs_jserp","companiesHomeUrl":"https://www.linkedin.com/company?trk=subnav_jobs_jserp","salariesHomeUrl":"https://www.linkedin.com/salary/?trk=subnav_jobs_jserp"}--></code><script>(function(){document.addEventListener('flushReady',function(){window.__LI_JOBS_DS__.flushModule("jobCareerSubnavModule");},false);})()</script><code id="googleAnalyticsModule"><!--{"page":"d_jobs_jserp_guest"}--></code><script>(function(){document.addEventListener('flushReady',function(){window.__LI_JOBS_DS__.flushModule("googleAnalyticsModule");},false);})()</script><code id="metaTagModule"><!--{"resultHeader":"\u003cstrong\u003e1,763\u003c/strong\u003e \u003ch1\u003e\u003cstrong\u003eDevops\u003c/strong\u003e jobs, careers, employment in \u003cstrong\u003e94071 San Carlos, CA\u003c/strong\u003e\u003c/h1\u003e","description":"Today's top 1763 Devops jobs in 94071 San Carlos, CA. Leverage your professional network, and get hired. New Devops jobs added daily.","gaPageKey":"JOB:/consumer/search/search/OLcs_guest_neo","marketplaceLink":null,"liPageKey":"d_jobs_jserp_guest","appindexUrl":"www.linkedin.com/jobs/devops-jobs-san-carlos-ca","canonical":"https://www.linkedin.com/jobs/devops-jobs-san-carlos-ca","title":"1,000+ Devops Jobs in San Carlos, CA","notPrimaryDomain":false,"crosslink":"Learn more about \u003ca href=\"https://www.linkedin.com/topic/devops?trk=jobs_jserp_topic_page\"\u003e\u003cstrong\u003eDevops\u003c/strong\u003e\u003c/a\u003e positions"}--></code><script>(function(){document.addEventListener('flushReady',function(){window.__LI_JOBS_DS__.flushModule("metaTagModule");},false);})()</script><code id="facetResultsModule"><!--{"facets":[{"displayName":"Location","defaultExpanded":true,"expanded":false,"facetType":"geo_city","crawlUrls":true,"facetValues":[{"facetValue":{"selected":false,"count":327,"value":"us.7-1-0-43-16","displayValue":"San Jose, California"},"cleanUrl":"https://www.linkedin.com/jobs/devops-jobs-san-jose-ca?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_geo_city","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_GC=us%2E7-1-0-43-16&orig=FCTD&trk=jobs_jserp_facet_geo_city"},{"facetValue":{"selected":false,"count":233,"value":"us.7-1-0-43-21","displayValue":"Sunnyvale, California"},"cleanUrl":"https://www.linkedin.com/jobs/devops-jobs-sunnyvale-ca?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_geo_city","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_GC=us%2E7-1-0-43-21&orig=FCTD&trk=jobs_jserp_facet_geo_city"},{"facetValue":{"selected":false,"count":203,"value":"us.7-1-0-43-12","displayValue":"Mountain View, California"},"cleanUrl":"https://www.linkedin.com/jobs/devops-jobs-mountain-view-ca?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_geo_city","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_GC=us%2E7-1-0-43-12&orig=FCTD&trk=jobs_jserp_facet_geo_city"},{"facetValue":{"selected":false,"count":179,"value":"us.7-1-0-43-14","displayValue":"Palo Alto, California"},"cleanUrl":"https://www.linkedin.com/jobs/devops-jobs-palo-alto-ca?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_geo_city","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_GC=us%2E7-1-0-43-14&orig=FCTD&trk=jobs_jserp_facet_geo_city"},{"facetValue":{"selected":false,"count":139,"value":"us.7-1-0-43-18","displayValue":"Santa Clara, California"},"cleanUrl":"https://www.linkedin.com/jobs/devops-jobs-santa-clara-ca?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_geo_city","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_GC=us%2E7-1-0-43-18&orig=FCTD&trk=jobs_jserp_facet_geo_city"},{"facetValue":{"selected":false,"count":103,"value":"us.7-1-0-41-21","displayValue":"San Mateo, California"},"cleanUrl":"https://www.linkedin.com/jobs/devops-jobs-san-mateo-ca?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_geo_city","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_GC=us%2E7-1-0-41-21&orig=FCTD&trk=jobs_jserp_facet_geo_city"},{"facetValue":{"selected":false,"count":101,"value":"us.7-1-0-41-17","displayValue":"Redwood City, California"},"cleanUrl":"https://www.linkedin.com/jobs/devops-jobs-redwood-city-ca?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_geo_city","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_GC=us%2E7-1-0-41-17&orig=FCTD&trk=jobs_jserp_facet_geo_city"},{"facetValue":{"selected":false,"count":96,"value":"us.7-1-0-38-1","displayValue":"San Francisco, California"},"cleanUrl":"https://www.linkedin.com/jobs/devops-jobs-san-francisco-ca?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_geo_city","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_GC=us%2E7-1-0-38-1&orig=FCTD&trk=jobs_jserp_facet_geo_city"},{"facetValue":{"selected":false,"count":81,"value":"us.7-1-0-43-4","displayValue":"Cupertino, California"},"cleanUrl":"https://www.linkedin.com/jobs/devops-jobs-cupertino-ca?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_geo_city","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_GC=us%2E7-1-0-43-4&orig=FCTD&trk=jobs_jserp_facet_geo_city"},{"facetValue":{"selected":false,"count":30,"value":"us.7-1-0-1-7","displayValue":"Fremont, California"},"cleanUrl":"https://www.linkedin.com/jobs/devops-jobs-fremont-ca?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_geo_city","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_GC=us%2E7-1-0-1-7&orig=FCTD&trk=jobs_jserp_facet_geo_city"}],"shortName":"GC"},{"displayName":"Company","defaultExpanded":true,"expanded":false,"facetType":"c_id","crawlUrls":false,"facetValues":[{"facetValue":{"selected":false,"count":60,"value":"21836","displayValue":"CyberCoders"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_C=21836&orig=FCTD&trk=jobs_jserp_facet_c_id"},{"facetValue":{"selected":false,"count":24,"value":"1231","displayValue":"Symantec"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_C=1231&orig=FCTD&trk=jobs_jserp_facet_c_id"},{"facetValue":{"selected":false,"count":13,"value":"30086","displayValue":"Palo Alto Networks"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_C=30086&orig=FCTD&trk=jobs_jserp_facet_c_id"},{"facetValue":{"selected":false,"count":12,"value":"162533","displayValue":"Aruba, a Hewlett Packard Enterprise company"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_C=162533&orig=FCTD&trk=jobs_jserp_facet_c_id"},{"facetValue":{"selected":false,"count":6,"value":"18022779","displayValue":"Oath"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_C=18022779&orig=FCTD&trk=jobs_jserp_facet_c_id"},{"facetValue":{"selected":false,"count":4,"value":"27140932","displayValue":"Jobs @ TheJobNetwork"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_C=27140932&orig=FCTD&trk=jobs_jserp_facet_c_id"},{"facetValue":{"selected":false,"count":2,"value":"27378","displayValue":"Wikimedia Foundation"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_C=27378&orig=FCTD&trk=jobs_jserp_facet_c_id"},{"facetValue":{"selected":false,"count":2,"value":"444004","displayValue":"Iksula"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_C=444004&orig=FCTD&trk=jobs_jserp_facet_c_id"},{"facetValue":{"selected":false,"count":1,"value":"2746801","displayValue":"Integrated Associates Inc."},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_C=2746801&orig=FCTD&trk=jobs_jserp_facet_c_id"},{"facetValue":{"selected":false,"count":1,"value":"89018","displayValue":"CoreTechs"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_C=89018&orig=FCTD&trk=jobs_jserp_facet_c_id"}],"shortName":"C"},{"displayName":"Date Posted","defaultExpanded":true,"expanded":false,"facetType":"time_posted","crawlUrls":false,"facetValues":[{"facetValue":{"selected":true,"count":1763,"value":"","displayValue":"Any Time"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&orig=FCTD&trk=jobs_jserp_posted_anytime"},{"facetValue":{"selected":false,"count":90,"value":"1","displayValue":"Past 24 Hours"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_TP=1&orig=FCTD&trk=jobs_jserp_posted_one_day"},{"facetValue":{"selected":false,"count":405,"value":"1,2","displayValue":"Past Week"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_TP=1%2C2&orig=FCTD&trk=jobs_jserp_posted_one_week"},{"facetValue":{"selected":false,"count":995,"value":"1,2,3,4","displayValue":"Past Month"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_TP=1%2C2%2C3%2C4&orig=FCTD&trk=jobs_jserp_posted_one_month"}],"shortName":"TP"},{"displayName":"Job Type","defaultExpanded":false,"expanded":false,"facetType":"job_type","crawlUrls":false,"facetValues":[{"facetValue":{"selected":false,"count":1695,"value":"F","displayValue":"Full-time"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_JT=FULL_TIME&orig=FCTD&trk=jobs_jserp_facet_job_type"},{"facetValue":{"selected":false,"count":37,"value":"C","displayValue":"Contract"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_JT=CONTRACT&orig=FCTD&trk=jobs_jserp_facet_job_type"},{"facetValue":{"selected":false,"count":10,"value":"I","displayValue":"Internship"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_JT=INTERNSHIP&orig=FCTD&trk=jobs_jserp_facet_job_type"},{"facetValue":{"selected":false,"count":1,"value":"P","displayValue":"Part-time"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_JT=PART_TIME&orig=FCTD&trk=jobs_jserp_facet_job_type"}],"shortName":"JT"},{"displayName":"Job Function","defaultExpanded":false,"expanded":false,"facetType":"function","crawlUrls":false,"facetValues":[{"facetValue":{"selected":false,"count":1187,"value":"it","displayValue":"Information Technology"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_F=it&orig=FCTD&trk=jobs_jserp_facet_function"},{"facetValue":{"selected":false,"count":1055,"value":"eng","displayValue":"Engineering"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_F=eng&orig=FCTD&trk=jobs_jserp_facet_function"},{"facetValue":{"selected":false,"count":100,"value":"sale","displayValue":"Sales"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_F=sale&orig=FCTD&trk=jobs_jserp_facet_function"},{"facetValue":{"selected":false,"count":55,"value":"prdm","displayValue":"Product Management"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_F=prdm&orig=FCTD&trk=jobs_jserp_facet_function"},{"facetValue":{"selected":false,"count":49,"value":"qa","displayValue":"Quality Assurance"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_F=qa&orig=FCTD&trk=jobs_jserp_facet_function"},{"facetValue":{"selected":false,"count":42,"value":"othr","displayValue":"Other"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_F=othr&orig=FCTD&trk=jobs_jserp_facet_function"},{"facetValue":{"selected":false,"count":31,"value":"mgmt","displayValue":"Management"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_F=mgmt&orig=FCTD&trk=jobs_jserp_facet_function"},{"facetValue":{"selected":false,"count":22,"value":"mnfc","displayValue":"Manufacturing"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_F=mnfc&orig=FCTD&trk=jobs_jserp_facet_function"},{"facetValue":{"selected":false,"count":14,"value":"trng","displayValue":"Training"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_F=trng&orig=FCTD&trk=jobs_jserp_facet_function"},{"facetValue":{"selected":false,"count":12,"value":"edu","displayValue":"Education"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_F=edu&orig=FCTD&trk=jobs_jserp_facet_function"}],"shortName":"F"},{"displayName":"Industry","defaultExpanded":false,"expanded":false,"facetType":"industry","crawlUrls":false,"facetValues":[{"facetValue":{"selected":false,"count":1290,"value":"4","displayValue":"Computer Software"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_I=4&orig=FCTD&trk=jobs_jserp_facet_industry"},{"facetValue":{"selected":false,"count":916,"value":"96","displayValue":"Information Technology and Services"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_I=96&orig=FCTD&trk=jobs_jserp_facet_industry"},{"facetValue":{"selected":false,"count":500,"value":"6","displayValue":"Internet"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_I=6&orig=FCTD&trk=jobs_jserp_facet_industry"},{"facetValue":{"selected":false,"count":215,"value":"118","displayValue":"Computer & Network Security"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_I=118&orig=FCTD&trk=jobs_jserp_facet_industry"},{"facetValue":{"selected":false,"count":179,"value":"3","displayValue":"Computer Hardware"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_I=3&orig=FCTD&trk=jobs_jserp_facet_industry"},{"facetValue":{"selected":false,"count":131,"value":"5","displayValue":"Computer Networking"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_I=5&orig=FCTD&trk=jobs_jserp_facet_industry"},{"facetValue":{"selected":false,"count":14,"value":"28","displayValue":"Entertainment"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_I=28&orig=FCTD&trk=jobs_jserp_facet_industry"},{"facetValue":{"selected":false,"count":7,"value":"100","displayValue":"Nonprofit Organization Management"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_I=100&orig=FCTD&trk=jobs_jserp_facet_industry"},{"facetValue":{"selected":false,"count":7,"value":"113","displayValue":"Online Media"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_I=113&orig=FCTD&trk=jobs_jserp_facet_industry"},{"facetValue":{"selected":false,"count":5,"value":"132","displayValue":"E-Learning"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_I=132&orig=FCTD&trk=jobs_jserp_facet_industry"}],"shortName":"I"},{"displayName":"Experience Level","defaultExpanded":false,"expanded":false,"facetType":"exp","crawlUrls":false,"facetValues":[{"facetValue":{"selected":false,"count":463,"value":"4","displayValue":"Mid-Senior level"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_E=4&orig=FCTD&trk=jobs_jserp_facet_exp"},{"facetValue":{"selected":false,"count":367,"value":"2","displayValue":"Entry level"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_E=2&orig=FCTD&trk=jobs_jserp_facet_exp"},{"facetValue":{"selected":false,"count":366,"value":"3","displayValue":"Associate"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_E=3&orig=FCTD&trk=jobs_jserp_facet_exp"},{"facetValue":{"selected":false,"count":52,"value":"5","displayValue":"Director"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_E=5&orig=FCTD&trk=jobs_jserp_facet_exp"},{"facetValue":{"selected":false,"count":10,"value":"1","displayValue":"Internship"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_E=1&orig=FCTD&trk=jobs_jserp_facet_exp"},{"facetValue":{"selected":false,"count":8,"value":"6","displayValue":"Executive"},"cleanUrl":null,"facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_E=6&orig=FCTD&trk=jobs_jserp_facet_exp"}],"shortName":"E"},{"displayName":"Title","defaultExpanded":false,"expanded":false,"facetType":"title","crawlUrls":true,"facetValues":[{"facetValue":{"selected":false,"count":188,"value":"10","displayValue":"Engineer"},"cleanUrl":"https://www.linkedin.com/jobs/engineer-jobs?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_title","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_T=10&orig=FCTD&trk=jobs_jserp_facet_title"},{"facetValue":{"selected":false,"count":59,"value":"22848","displayValue":"Site Reliability Engineer"},"cleanUrl":"https://www.linkedin.com/jobs/site-reliability-engineer-jobs?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_title","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_T=22848&orig=FCTD&trk=jobs_jserp_facet_title"},{"facetValue":{"selected":false,"count":18,"value":"8530","displayValue":"Senior Reliability Engineer"},"cleanUrl":"https://www.linkedin.com/jobs/senior-reliability-engineer-jobs?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_title","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_T=8530&orig=FCTD&trk=jobs_jserp_facet_title"},{"facetValue":{"selected":false,"count":17,"value":"11867","displayValue":"Build And Release Engineer"},"cleanUrl":"https://www.linkedin.com/jobs/build-and-release-engineer-jobs?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_title","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_T=11867&orig=FCTD&trk=jobs_jserp_facet_title"},{"facetValue":{"selected":false,"count":17,"value":"16637","displayValue":"Senior Site Engineer"},"cleanUrl":"https://www.linkedin.com/jobs/senior-site-engineer-jobs?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_title","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_T=16637&orig=FCTD&trk=jobs_jserp_facet_title"},{"facetValue":{"selected":false,"count":12,"value":"1452","displayValue":"Security Engineer"},"cleanUrl":"https://www.linkedin.com/jobs/security-engineer-jobs?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_title","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_T=1452&orig=FCTD&trk=jobs_jserp_facet_title"},{"facetValue":{"selected":false,"count":11,"value":"59","displayValue":"System Administrator"},"cleanUrl":"https://www.linkedin.com/jobs/system-administrator-jobs?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_title","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_T=59&orig=FCTD&trk=jobs_jserp_facet_title"},{"facetValue":{"selected":false,"count":4,"value":"2969","displayValue":"Data Administrator"},"cleanUrl":"https://www.linkedin.com/jobs/data-administrator-jobs?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_title","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_T=2969&orig=FCTD&trk=jobs_jserp_facet_title"},{"facetValue":{"selected":false,"count":2,"value":"1227","displayValue":"Commerce"},"cleanUrl":"https://www.linkedin.com/jobs/commerce-specialist-jobs?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_title","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_T=1227&orig=FCTD&trk=jobs_jserp_facet_title"},{"facetValue":{"selected":false,"count":1,"value":"1627","displayValue":"Information Technology Intern"},"cleanUrl":"https://www.linkedin.com/jobs/information-technology-intern-jobs?op=%2Fjobs%2Fsearch%2F&trk=jobs_jserp_facet_title","facetUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&f_T=1627&orig=FCTD&trk=jobs_jserp_facet_title"}],"shortName":"T"}],"facetSuggestion":{},"facetBaseUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&orig=FCTD","facetLessBaseUrl":"/jobs/search?keywords=Devops&distance=25&locationId=POSTAL%2Eus%2E94071&orig=FCTD"}--></code><script>(function(){document.addEventListener('flushReady',function(){window.__LI_JOBS_DS__.flushModule("facetResultsModule");},false);})()</script><code id="relatedJobSearchWithLocationModule"><!--{"relatedSearchHeader":"Apply to 1000+ \u003cstrong\u003eOperations Engineer\u003c/strong\u003e jobs in \u003cstrong\u003eSan Carlos, CA\u003c/strong\u003e on LinkedIn","relatedLocPos":0,"relatedSearchesByLocation":[]}--></code><script>(function(){document.addEventListener('flushReady',function(){window.__LI_JOBS_DS__.flushModule("relatedJobSearchWithLocationModule");},false);})()</script>
+
+<script type="text/javascript">
+  (function () {
+    var config;
+    if (!window.__li__config_registry__) {
+      window.__li__config_registry__ = {};
+    }
+
+    config = window.__li__config_registry__;
+
+    if (!config.jobSearch) {
+      config.jobs = {};
+    }
+
+    config.jobs.embeddedContentIds = {
+      facetResultsModule: 'facetResultsModule',
+      metaTagModule: 'metaTagModule',
+      globalVariableModule: 'globalVariableModule',
+      googleAnalyticsModule: 'googleAnalyticsModule',
+      guestChrome: 'guestChromeDisplayModule',
+      searchValuesModule: 'searchValuesModule',
+      breadcrumbsModule: 'breadcrumbsModule',
+      relatedJobSearchModule: 'relatedJobSearchModule',
+      decoratedJobPostingsModule: 'decoratedJobPostingsModule',
+      jobSearchAlertModule: 'jobSearchAlertModule',
+      UILixModule: 'UILixModule',
+      pivotQueryBannerModule: 'pivotQueryBannerModule',
+      distanceModule: 'distanceModule',
+      timePostedModule: 'timePostedModule',
+      searchHistoryDisplayModule: 'searchHistoryDisplayModule',
+      memberProfileDisplayModule: 'memberProfileDisplayModule',
+      helpCenterModule: 'helpCenterModule',
+      noResultModule: 'noResultModule',
+      spellingSuggestionsModule: 'spellingSuggestionsModule',
+      salaryPromoModule: 'salaryPromoModule',
+      standardizedLocation: 'standardizedLocationModule',
+      careerSubnav: 'jobCareerSubnavModule',
+      relatedJobSearchWithLocationModule: 'relatedJobSearchWithLocationModule',
+      leftRailLinksDisplayModule: 'leftRailLinksDisplayModule',
+      footerLinksDisplayModule: 'footerLinksDisplayModule'
+    };
+   }());
+</script>
+
+
+
+
+
+
+
+
+
+
+    <script type="text/javascript" src="https://static.licdn.com/sc/p/com.linkedin.jobs-frontend%3Ajobs-frontend-static-content%2B1.0.1516/f/%2Fjobs-frontend%2Fconcat%2Fapp-dist_en_US.js"></script>
+
+    <script type="text/javascript" src="https://static.licdn.com/sc/p/com.linkedin.jobs-frontend%3Ajobs-frontend-static-content%2B1.0.1516/f/%2Fjobs-frontend%2Fconcat%2Fmarionette-job-search-templates_en_US.js"></script>
+
+
+
+<script>
+  (function () {
+   document.addEventListener('flushReady', function () {
+      window.__LI_JOBS_DS__.flushCompleted();
+     }, false);
+  })();
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <meta name="detectAdBlock" content="//platform.linkedin.com/js/px.js"/>
+ <script src="https://static.licdn.com/scds/concat/common/js?h=69w33ou4umkyupw2uqgn7za7w" async defer></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script class="comscore-tracking">
+ (function(_e, _r) {
+ var isNielsenDisabled = true;
+ var providers = {
+ 'COMSCORE': {
+ 'treatment': 'control'
+ }
+ };
+ if (!isNielsenDisabled) {
+ providers['NIELSEN'] = {
+ 'treatment': 'control'
+ };
+ }
+
+ var fireComscore = function() {
+ var comScore = window.COMSCORE;
+ if (comScore) {
+ comScore.beacon({ c1: 2, c2: 6402952, c3: '', c4: '', c5: '', c6: '', c15: '' });
+ }
+ };
+
+ var uc = window.encodeURIComponent, timeStamp = (new Date()).getTime();
+ var fireExternalTracking = function(et) {
+ if (typeof et.trackPageChromeInit === 'function') {
+ et.trackPageChromeInit(providers);
+ } else {
+ // Default treatment if not read from LIX.
+ et.setTreatment('enabled_1.0');
+ et.trackWithComScoreForChromeInit();
+ if (!isNielsenDisabled) {
+ var img = new Image(1, 1);
+ img.onerror = img.onload = function () {
+ img.onerror = img.onload = null;
+ };
+ img.src = [
+ "//secure-gl.imrworldwide.com/cgi-bin/m?ci=au-linkedin&cc=1&si=",
+ uc(window.location.href),
+ "&rp=", uc(document.referrer), "&ts=compact&rnd=", timeStamp
+ ].join('');
+ }
+ }
+ };
+ var track = function() {
+ var et;
+ if (_e) {
+ fireExternalTracking(_e);
+ } else if (_r && typeof _r.ensure === 'function') {
+ try {
+ _r.ensure(['externalTracking'], function (require) {
+ try {
+ et = require('externalTracking');
+ fireExternalTracking(et);
+ } catch (e) {
+ fireComscore();
+ }
+ });
+ } catch (e) {
+ fireComscore();
+ }
+ } else if (_r && _r._is_li) {
+ try {
+ et = require('externalTracking');
+ fireExternalTracking(et);
+ } catch (e) {
+ fireComscore();
+ }
+ } else {
+ fireComscore();
+ }
+ };
+ window.addEventListener('load', track);
+ }(window.externalTracking, window.require));
+</script>
+<noscript>
+ <img src="https://sb.scorecardresearch.com/b?c1=2&amp;c2=6402952&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1" style="display:none" width="0" height="0" alt="" />
+</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <script type="text/javascript">
+ (function(d) {
+ function go() {
+ var a = d.createElement('iframe');
+ a.style.display = 'none';
+ a.setAttribute('sandbox', 'allow-scripts allow-same-origin');
+ a.src = '//radar.cedexis.com/1/11326/radar.html';
+ if (d.body) {
+ d.body.appendChild(a);
+ }
+ }
+
+ if (window.addEventListener) {
+ window.addEventListener('load', go, false);
+ } else if (window.addEvent) {
+ window.addEvent('onload', go);
+ }
+ }(document));
+ </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+            </body>
+            </html>
+
+
+
+
+
+
+
+
