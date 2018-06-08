@@ -5,123 +5,51 @@
  * Date: 6/7/18
  * Time: 3:01 PM
  */
-
+/*
+ * Муравей Лэнгдона
+ * Имеет направление движения
+ *
+ * нужно поле, каждая клетка имеет статус 1 иил 0
+ * нужен муравей (направление текущее, координаты на поле)
+ *
+ * сначала инициализируем поле - массив двумерный, нули и единцы, случайным образом
+ * затем случайные координаты муравья и случайное направление (для упрощения - центр поля, смотрит вверх)
+ * у муравья 4 направления: лево-право-верх-низ. это можно условно обозначить цифрами, 1-4
+ * то есть муравей - массив, состоит из 3 элементов: х, у и направление
+ *
+ * итого в начале имеем два массива.
+ *
+ * отрисовка - как и жизнь, табличкой. сначала отрисовать поле, в процессе уложить муравья (просто точка иного цвета)
+ * положение и направление муравья хранить в отдельной переменной
+ *
+ * следующий шаг - отправляем текущее поле и муравья, два массива
+ * на сервере обсчитываем новое поле исходя из муравья, и обновляем самого муравья
+ *
+ * отрисовываем
+ *
+ * повторить до бесконености
+ */
 include '../functions.php';
 
-$n = 30;
-
-function initWorld(&$world, $size)
+function initWorld(&$world, &$ant, $size)
 {
     if (!is_array($world) || empty($world)) {
         $world = array();
+    }
+    if (!is_array($ant) || empty($ant)) {
+        $ant = array(
+            'x' => 15,
+            'y' => 15,
+            'd' => mt_rand(1, 4)
+        );
     }
 
     for ($i = 0; $i < $size; $i++) {
         $world[$i] = array();
         for ($j = 0; $j < $size; $j++) {
-            $world[$i][$j] = 0;
+            $world[$i][$j] = mt_rand(0, 1);
         }
     }
-
-    // test 0
-    /*$world[5][5] = 1;
-    $world[5][6] = 1;
-    $world[5][7] = 1;
-    $world[5][8] = 1;
-    $world[5][9] = 1;
-
-    $world[7][5] = 1;
-    $world[8][6] = 1;
-    $world[9][7] = 1;
-    $world[10][8] = 1;
-    $world[11][9] = 1;
-
-    $world[7][5] = 1;
-    $world[8][5] = 1;
-    $world[9][5] = 1;
-    $world[10][5] = 1;
-    $world[11][5] = 1;*/
-
-    // test 1
-    /*$world[5][5] = 1;
-    $world[6][5] = 1;
-    $world[7][6] = 1;*/
-
-    // test 2
-    /*$world[5][8] = 1;
-    $world[4][9] = 1;
-    $world[5][10] = 1;*/
-
-    // test 3
-    /*$world[5][0] = 1;
-    $world[4][1] = 1;
-    $world[3][2] = 1;*/
-
-    // test 4
-    /*$world[1][1] = 1;
-    $world[2][1] = 1;
-    $world[1][2] = 1;*/
-
-    // test 5
-    /*$world[5][6] = 1;
-    $world[5][7] = 1;
-    $world[5][8] = 1;*/
-
-    // test 6
-    /*$world[5][5] = 1;
-    $world[5][6] = 1;
-    $world[5][7] = 1;
-    $world[5][8] = 1;*/
-
-    // GLIDER
-    /*$world[5][5] = 1;
-    $world[5][6] = 1;
-    $world[5][7] = 1;
-    $world[4][7] = 1;
-    $world[3][6] = 1;*/
-
-    // 8
-    /*$world[8][8] = 1;
-    $world[8][9] = 1;
-    $world[8][10] = 1;
-    $world[9][8] = 1;
-    $world[9][9] = 1;
-    $world[9][10] = 1;
-    $world[10][8] = 1;
-    $world[10][9] = 1;
-    $world[10][10] = 1;
-
-    $world[11][11] = 1;
-    $world[11][12] = 1;
-    $world[11][13] = 1;
-    $world[12][11] = 1;
-    $world[12][12] = 1;
-    $world[12][13] = 1;
-    $world[13][11] = 1;
-    $world[13][12] = 1;
-    $world[13][13] = 1;*/
-
-
-    // random
-    for ($i = 0; $i < $size * 4; $i++) {
-        $x = mt_rand(0, $size - 1);
-        $y = mt_rand(0, $size - 1);
-        $world[$x][$y] = 1;
-    }
-}
-
-function iterateWorld(&$world, $size)
-{
-    $result = [];
-    for ($i = 0; $i < $size; $i++) {
-        $result[$i] = [];
-        for ($j = 0; $j < $size; $j++) {
-            $item = getStatus($world, $i, $j, $size);
-            $result[$i][$j] = $item;
-        }
-    }
-
-    return $result;
 }
 
 function getStatus(&$world, $i, $j, $size)
@@ -144,9 +72,9 @@ function getNeighbords(&$world, $i, $j, $size)
     for ($n = $i - 1; $n <= $i + 1; $n++) {
         for ($m = $j - 1; $m <= $j + 1; $m++) {
             if (
-                    $n < 0 || $j < 0 ||
-                    $i >= $size || $j >= $size ||
-                    ($n == $i && $j == $m)
+                $n < 0 || $j < 0 ||
+                $i >= $size || $j >= $size ||
+                ($n == $i && $j == $m)
             ) {
                 continue;
             }
@@ -171,38 +99,85 @@ function checkResult(&$world, $size)
     return $result;
 }
 
+
+function getNewAnt($ant, $d)
+{
+    $newAnt = [];
+    $current = $ant['d'] + $d;
+
+    if ($current < 1) {
+        $current = 4;
+    } elseif ($current > 4) {
+        $current = 1;
+    }
+    $newAnt = [
+        'x' => $ant['x'],
+        'y' => $ant['y'],
+        'd' => $current
+    ];
+    $newAnt['d'] = $current;
+
+    switch ($newAnt['d']) {
+        case 1:
+            $newAnt['x'] += 1;
+            break;
+        case 2:
+            $newAnt['y'] += 1;
+            break;
+        case 3:
+            $newAnt['x'] -= 1;
+            break;
+        case 4:
+            $newAnt['y'] -= 1;
+            break;
+    }
+
+    return $newAnt;
+}
+
+function iterateWorld(&$world, &$a, $size)
+{
+    $d = 1;
+    if (!$world[$a['x']][$a['y']]) {
+        $d *= -1;
+    }
+    $world[$a['x']][$a['y']] = !$world[$a['x']][$a['y']];
+    $a = getNewAnt($a, $d);
+}
+
 if (isset($_SERVER['HTTP_X_REQUESTED_WITH']) && $_SERVER['HTTP_X_REQUESTED_WITH'] === 'XMLHttpRequest') {
 
     $state = isset($_REQUEST['state']) ? $_REQUEST['state'] : array();
-    $apocalypse = isset($_REQUEST['apocalypse']) ? boolval($_REQUEST['apocalypse']) : false;
+    $a = isset($_REQUEST['ant']) ? $_REQUEST['ant'] : array();
+
     $result = array();
 
-    if ( empty($state) || $apocalypse) {
-        initWorld($result, $n);
+    if (empty($state)) {
+        initWorld($result, $a, $n);
     } else {
-        $result = iterateWorld($state, $n);
+        iterateWorld($state, $a, $n);
     }
 
-    $checkResult = checkResult($result, $n);
-
     $response = array(
-        'state' => $result,
-        'alives' => $checkResult
+        'state' => $state,
+        'ant' => $a
     );
 
     echo json_encode($response);
     die;
 }
 
+$n = 30;
+$ant = [];
 $world = [];
 
-initWorld($world, $n);
+initWorld($world, $ant, $n);
 
 ?>
 
 <html>
 <head>
-    <title>Life is life</title>
+    <title>Langton Ant</title>
     <script
             src="https://code.jquery.com/jquery-1.12.4.min.js"
             integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
@@ -236,6 +211,10 @@ initWorld($world, $n);
             float: left;
             margin-right: 10px;
         }
+
+        .cell.ant {
+            background: red !important;
+        }
     </style>
 </head>
 <body>
@@ -248,7 +227,11 @@ initWorld($world, $n);
                 <?php for ($i = 0; $i < $n; $i++): ?>
                     <tr>
                         <?php for ($j = 0; $j < $n; $j++): ?>
-                            <td class="cell <?php echo ($world[$i][$j]) ? 'filled' : ''; ?>"></td>
+                            <td class="cell
+                            <?php echo ($ant['x'] == $i && $ant['y'] == $j) ? 'ant  ' : ''; ?>
+                            <?php echo ($world[$i][$j]) ? 'filled' : ''; ?>">
+
+                            </td>
                         <?php endfor; ?>
                     </tr>
                 <?php endfor; ?>
@@ -286,54 +269,48 @@ initWorld($world, $n);
         return state;
     }
 
-    function setWorldState(state) {
+    function setWorldState(response) {
         var cells = $('.world td');
+        ant = response.ant;
         cells.removeClass('filled');
+        cells.removeClass('ant');
         var size = parseInt(<?php echo $n; ?>);
 
         var cntr = 0;
         for (var i = 0; i < size; i++) {
             for (var j = 0; j < size; j++) {
                 var cell = $(cells[cntr]);
-                if (state[i][j] > 0) {
+                if (response.state[i][j] > 0) {
                     cell.addClass('filled')
+                }
+                if (i === parseInt(ant.x) && j === parseInt(ant.y)) {
+                    cell.addClass('ant');
                 }
                 cntr++;
             }
         }
 
-        return state;
+        return response.state;
     }
 
     function step() {
         var state = getWorldState();
         $.ajax({
-            url: 'http://playground.local/life/',
+            url: 'http://playground.local/ant/',
             type: 'post',
             dataType: 'json',
             data: {
-                state: state,
-                apocalypse: apocalypse * 1
+                ant: ant,
+                state: state
             },
             success: function (response) {
-                setWorldState(response.state);
-                if (apocalypse) {
-                    apocalypse = false;
-                    $('.steps-list').html($('<li>Init state</li>'));
-                }
-                var str = '';
-                if (response.alives > 0) {
-                    str = 'Step ' + totalCntr + ', alives - ' + response.alives;
-                } else {
-                    apocalypse = true;
-                    auto = false;
-                    str = 'APOCALYPSE';
-                }
+                setWorldState(response);
+                var str = 'Step ' + totalCntr;
                 $('.steps-list').append($('<li>' + str + '</li>'));
 
                 totalCntr++;
 
-                if (auto && response.alives > 0) {
+                if (auto) {
                     setTimeout(function () {
                         step();
                     }, 500);
@@ -342,8 +319,13 @@ initWorld($world, $n);
         });
     }
 
-    var totalCntr = 1, auto = false, apocalypse = false;
+    var totalCntr = 1, auto = false, ant = {};
     $(document).ready(function () {
+        ant = {
+            x: parseInt('<?php echo $ant["x"]; ?>'),
+            y: parseInt('<?php echo $ant["y"]; ?>'),
+            d: parseInt('<?php echo $ant["d"]; ?>')
+        };
         $('.next-step').click(function () {
             step();
         });
