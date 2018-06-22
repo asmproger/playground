@@ -47,7 +47,7 @@ function initWorld(&$world, &$ant, $size)
     for ($i = 0; $i < $size; $i++) {
         $world[$i] = array();
         for ($j = 0; $j < $size; $j++) {
-            $world[$i][$j] = mt_rand(0, 1);
+            $world[$i][$j] = 0;//mt_rand(0, 1);
         }
     }
 }
@@ -313,7 +313,7 @@ initWorld($world, $ant, $n);
                 if (auto) {
                     setTimeout(function () {
                         step();
-                    }, 500);
+                    }, 100);
                 }
             }
         });

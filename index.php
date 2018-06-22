@@ -1,5 +1,47 @@
 <?php
 
+function getMemory($flag = 0)
+{
+    $memory_src = memory_get_usage($flag);
+    $memory = $memory_src;
+    $sign = 'b';
+    if($memory > 1000000000) {
+        $memory /= 1024 * 1024 * 1024;
+        $sign = 'G';
+    } elseif($memory > 1000000) {
+        $memory /= 1024 * 1024;
+        $sign = 'M';
+    } elseif ($memory > 1024) {
+        $memory /= 1024;
+        $sign = 'K';
+    }
+    $memory = round($memory,2);
+
+    echo $memory . $sign . "<br>";
+}
+function getMemoryFull() {
+    getMemory();
+    getMemory(1);
+    echo '<br>';
+}
+
+getMemoryFull();
+
+$bigString = str_repeat('f', 10000000);
+$wtf = $bigString;
+
+getMemoryFull();
+$wtf .= '123';
+//unset($bigString);
+
+getMemoryFull();
+die;
+
+/*setcookie('name1', 'value1', time() + 84600, '/');
+setcookie('name1', 'value2');
+
+
+die('ok');*/
 //curl 'https://www.idealista.com/'
 // -H 'authority: www.idealista.com'
 // -H 'upgrade-insecure-requests: 1'
@@ -65,7 +107,6 @@ die;
 // -H 'accept-language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'
 // -H $'cookie: userUUID=7b443b47-450b-44d8-874f-ab2dd409ce12; xtvrn=$352991$; xtan352991=2-anonymous; xtant352991=1; cookieDirectiveClosed=true; atidvisitor=%7B%22name%22%3A%22atidvisitor%22%2C%22val%22%3A%7B%22vrn%22%3A%22-582065-%22%7D%2C%22options%22%3A%7B%22path%22%3A%22%2F%22%2C%22session%22%3A15724800%2C%22end%22%3A15724800%7D%7D; optimizelyEndUserId=oeu1524114892218r0.6263442785893905; _pxvid=97286a40-4390-11e8-bc40-5f4b542c9a66; pxvid=97286a40-4390-11e8-bc40-5f4b542c9a66; cookieSearch-1="/venta-obranueva/alicante/:1524205287451"; contactb2e5f986-9b20-42db-b897-ab24b02c6691="{\'email\':null,\'phone\':null,\'phonePrefix\':null,\'friendEmails\':null,\'name\':null,\'message\':null,\'message2Friends\':null,\'maxNumberContactsAllow\':10,\'defaultMessage\':true}"; _hjIncludedInSample=1; TestIfCookie=ok; TestIfCookieP=ok; vs=33114=8047221; pbw=%24b%3d16660%3b%24o%3d99999%3b%24sw%3d1920%3b%24sh%3d1080; pid=4621675710173324313; pdomid=25; sasd2=q=%24qc%3d1308953853%3b%24ql%3dunknown%3b%24qpc%3d720000%3b%24qpp%3d0%3b%24qt%3d118_2428_43091t%3b%24dma%3d0&c=1&l=&lo=&lt=636598092901206995; sasd=%24qc%3d1308953853%3b%24ql%3dunknown%3b%24qpc%3d720000%3b%24qpp%3d0%3b%24qt%3d118_2428_43091t%3b%24dma%3d0; dyncdn=1; SESSION=da041a23-091d-4804-afae-84efa65b9217; WID=8b128ccc505810c9|WtmSw|WtmG4; utag_main=v_id:0162dc53a480000a45596b0a7c3e04069001a06100bd0$_sn:5$_ss:1$_st:1524210131589$ses_id:1524208331589%3Bexp-session$_pn:1%3Bexp-session; _px2=eyJ1IjoiMjU0NjVhYjAtNDQ2YS0xMWU4LTgwMTItYTlkZjJkMjIwZDc4IiwidiI6Ijk3Mjg2YTQwLTQzOTAtMTFlOC1iYzQwLTVmNGI1NDJjOWE2NiIsInQiOjE1MjQyMDg4NzI1ODEsImgiOiJiZjk4MzUyZTc1ZWM1NGI0M2IxOWY1ODQ0Nzg2ZmNiYWFlYmQ1MDdiMzMwMjJiYTU3YWUwMjQ5MzIwOTg3ZjdlIn0='
 // --compressed
-
 
 
 /*
