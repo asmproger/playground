@@ -1,5 +1,6 @@
 {
     "require": {
-        "symfony/finder": "^3.4"
+        "symfony/finder": "^3.4",
+        "walkor/workerman": "^3.5"
     }
 }
