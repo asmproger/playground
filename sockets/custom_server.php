@@ -6,6 +6,7 @@
  * Time: 10:27 AM
  */
 
+
 const WEBSOCKERT_SECRET_STR = '258EAFA5-E914-47DA-95CA-C5AB0DC85B11';
 
 
@@ -15,17 +16,18 @@ const WEBSOCKERT_SECRET_STR = '258EAFA5-E914-47DA-95CA-C5AB0DC85B11';
 class Frame
 {
     protected $rawFrame = '';
+    protected $message = '';
 
     protected $firstByte = 0;
     protected $secondByte = 0;
-    protected $thirdByte = 0;
 
-    protected $isFinal = false;
     protected $isMasked = false;
+    protected $isFinal = false;
     protected $opcode = null;
     protected $type = null;
-    protected $length = 0;
     protected $mask = null;
+    protected $offset = 2;
+    protected $length = 0;
 
     public function __construct($rawFrame = '')
     {
@@ -33,13 +35,15 @@ class Frame
         $this->decodeFrame();
     }
 
-    public function setRawFrame($rawFrame = '') {
+    public function setRawFrame($rawFrame = '')
+    {
         $this->rawFrame = $rawFrame;
         $this->decodeFrame();
     }
 
-    public function decodeFrame() {
-        if(!$this->rawFrame) {
+    public function decodeFrame()
+    {
+        if (!$this->rawFrame) {
             return;
         }
 
@@ -54,38 +58,61 @@ class Frame
 
         $this->isMasked = ($this->secondByte & 128) == 128;
 
-        $this->type = $this->detectType();
-        $this->length = $this->detectLength();
+        $this->detectType();
+        $this->detectLength();
+        $this->detectMask();
+        $this->detectData();
 
         print_r([
-            'first   :' => sprintf('%08b', $this->firstByte),
-            'mask    :' => sprintf('%08b', 15),
             'isFinal :' => $this->isFinal,
             'opcode  :' => $this->opcode . ' ' . gettype($this->opcode),
             'type    :' => $this->type,
             'masked  :' => $this->isMasked,
             'len     :' => $this->length,
-            'wtf     :' => $this->secondByte & 127
+            'mask    :' => $this->mask,
+            'data    :' => $this->message,
+            'rawFrame:' => $this->rawFrame
         ]);
 
     }
 
+    private function detectData()
+    {
+        $rawData = substr($this->rawFrame, $this->offset + 4);
+        $this->message = $rawData ^ $this->mask;
+        
+        print('------------' . PHP_EOL);
+        for ($i = 0; $i < strlen($rawData); $i++) {
+            print(chr(ord($rawData[$i]) . PHP_EOL));
+        }
+        print('------------' . PHP_EOL);
+    }
 
-    protected $offset = 0;
+    private function detectMask()
+    {
+        if (!$this->isMasked) {
+            throw new Exception('Error: not masked');
+        }
 
-    private function detectLength() {
+        $this->mask = ord(substr($this->rawFrame, $this->offset, 4));
+    }
+
+    private function detectLength()
+    {
         $length = $this->secondByte & 127;
 
-        if($length > 127) {
+        if ($length > 127) {
             throw new Exception('Invalid length value');
         }
 
-        switch($length) {
+        switch ($length) {
             case 126:
-                $this->length = ord(substr($this->rawFrame,2, 2));
+                $this->offset = 4;
+                $this->length = ord(substr($this->rawFrame, 2, 2));
                 break;
             case 127:
-                $this->length = ord(substr($this->rawFrame,2, 8));
+                $this->offset = 16;
+                $this->length = ord(substr($this->rawFrame, 2, 8));
                 break;
             default:
                 $this->length = $length;
@@ -93,14 +120,15 @@ class Frame
         print_r([
             'len1       :' => $length,
             'len        :' => $this->length,
-            'thirdByte  :' => sprintf('%08b', $this->thirdByte),
             'mask       :' => sprintf('%08b', 192),
             'l_main     :' => sprintf('%08b', $this->length),
         ]);
     }
 
 
-    private function detectType() {
+    private function detectType()
+    {
+        echo('_' . $this->opcode . '_');
         switch ($this->opcode) {
             case 0:
                 $this->type = 'continue';
